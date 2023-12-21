@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Necklace | Haram</title>
+  <link rel="icon" type="image/x-icon" href="DisplayAssests/Favicon/ms-icon-150x150.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="collection.css">
+  <script src="https://kit.fontawesome.com/ab6ce438bd.js" crossorigin="anonymous"></script>
+
+</head>
+
+
+<!-- <img src="Assets/logo/logo.png" alt="" onclick="show(this.src)" > -->
+
+<body>
+  <div class="b2cmobShow " id="b2cmobShow">
+    <i id="b2cmobShowX" class="fa-solid fa-xmark"></i>
+    <div class="xyz flex">
+        <img src="Assets/myAssest/b2c.jpg" width="80%" alt="">
+        <p>
+            As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+            directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+            savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+        </p>
+    </div>
+</div>
+<div class="B2CforMobile " id="b2cMobile">
+    <i id="mobileX" class="fa-solid fa-xmark"></i>
+    <img id="b2cmobileImg" src="Assets/myAssest/badge/badge.png" alt="">
+</div>
+  <div class="whatsappdiv">
+    <a target="_blank" href="https://wa.me/918097452090">
+        <img src="DisplayAssests/whatsapp-logo-png-2260.png" alt="">
+    </a>
+</div>
+  <!-- image viewer start-->
+  <div class="imageView " id="imageView">
+    <img src="Assets/1.jpg" alt="Photo" id="imageDis">
+    <p onclick="closeViewer()"><i class="fa-solid fa-xmark"></i></p>
+
+  </div>
+  <!-- image viewer end-->
+  <!-- <img src="collectionAssets/Diamond/Earrings/smder20230029.1.webp" alt=""> -->
+
+
+  <!-- Navbar -->
+  <nav>
+    <div class="navbar flex container">
+      <div class="leftNav">
+        <a href="index.html"><img src="Assets/logo/logo.png" alt=""></a>
+      </div>
+      <div class="middleNav">
+        <ul class="menus flex">
+          <div id="homePage">
+            <a href="index.html">
+              <li>Home</li>
+            </a>
+          </div>
+
+          <div id="diamondCate">
+            <div id="active">Diamond</div>
+            <div class="dropDown flex" id="diamondCateContainer">
+              <a href="DiamondRing.html">
+                <p>Rings</p>
+              </a>
+              <a href="DiamondEarring.html">
+                <p>Earrings | Jhumkas</p>
+              </a>
+              <a href="DiamondMangalSutra.html">
+                <p>Mangalsutra</p>
+              </a>
+              <a href="DiamondBanglesBracelets.html">
+                <p>Bangles | Bracelet</p>
+              </a>
+              <a href="DiamondPendantSet.html">
+                <p>Pendant Set</p>
+              </a>
+              <a href="DiamondNecklaceHaram.html">
+                <p id="active">Necklace | Haram</p>
+              </a>
+            </div>
+          </div>
+          <div id="GemstonePearlsCate">
+            <div>Gemstone</div>
+            <div class="dropDownG flex" id="GemstonePearlsCateContainer">
+              <a href="Navratan.html">
+                <p>Navratan</p>
+              </a>
+              <a href="GemstomePearls.html">
+                <p>Gemstone Jewellery</p>
+              </a>
+              <a href="BirthStone.html">
+                <p>Birth Stone</p>
+              </a>
+
+            </div>
+          </div>
+          <div id="cusCate">
+            <div>Customized Jewellery</div>
+            <div class="dropDownc flex" id="cusCateContainer">
+              <a href="GoldKundan.html">
+                <p>Gold | Kundan | Polki</p>
+              </a>
+              <a href="CustomizedJewellery.html">
+                <p>Diamond | Gemstone Jewellery</p>
+              </a>
+
+
+            </div>
+          </div>
+
+
+          <div id="aboutPage">
+            <a href="AboutUs.html">
+              <li>About Us</li>
+            </a>
+          </div>
+
+          <!-- <a href="contactUs.html">
+                <li>Contact Us</li>
+            </a>
+
+            <li id="ourCol">Our Collections</li> -->
+        </ul>
+      </div>
+      <div class="rightNav flex ">
+        <img id="b2cId" class="b2c" src="Assets/myAssest/badge/badge.png" alt="">
+
+        <i class="fa-solid fa-phone fa-lg" id="mobile"></i>
+        <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+        <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+        <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+      </div>
+
+      <div class="hamburger">
+        <i class="fa-solid fa-bars fa-lg" id="hamburgerId"></i>
+      </div>
+    </div>
+    <div class="ourCollectionContainer" id="ourCollectionContainerid">
+      <div class="ourCollectionMain container flex">
+        <div class="diamondCat">
+          <h4>Diamond</h4>
+          <a href="">
+            <li>Rings </li>
+          </a>
+          <a href="">
+            <li>Earrings | Jhumkas</li>
+          </a>
+          <a href="">
+            <li>Mangalsutra</li>
+          </a>
+          <a href="">
+            <li>Bangles | Bracelet</li>
+          </a>
+          <a href="">
+            <li>Pendant Set</li>
+          </a>
+          <a href="">
+            <li>Necklace | Haram</li>
+          </a>
+        </div>
+        <div class="goldCat">
+          <h4>Gold</h4>
+          <a href="">
+            <li>Rings </li>
+          </a>
+          <a href="">
+            <li>Earrings | Jhumkas</li>
+          </a>
+          <a href="">
+            <li>Mangalsutra</li>
+          </a>
+          <a href="">
+            <li>Bangles | Bracelet</li>
+          </a>
+          <a href="">
+            <li>Pendant Set</li>
+          </a>
+          <a href="">
+            <li>Necklace | Haram</li>
+          </a>
+        </div>
+        <div class="gemstoneCat">
+          <h4>Gemstones | Pearls</h4>
+          <a href="">
+            <li>Navratna</li>
+          </a>
+          <a href="">
+            <li>Exclusive</li>
+          </a>
+          <a href="">
+            <li>Jewellery</li>
+          </a>
+          <a href="">
+            <li>Birth Stone</li>
+          </a>
+
+        </div>
+        <div class="customizedCat">
+          <h4>Customized Jewellery</h4>
+          <a href="">
+            <li>Jewellery</li>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+    <div class="b2cContainer flex" id="b2cContainerId">
+      <div class="b2cContent container flex">
+        <div class="imgDivContainer ">
+          <img src="Assets/myAssest/b2c.jpg" alt="">
+        </div>
+        <div class="descriptionDivContainer flex">
+          <p>
+            As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+            directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+            savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+          </p>
+
+
+        </div>
+      </div>
+
+    </div>
+  </nav>
+  <!-- SideBar for devices smaller then laptop  fa-x -->
+  <div class="sideMain" id="sideBarId">
+    <div class="sideBar flex">
+      <i class="fa-solid fa-arrow-right-long fa-lg" id="cross"></i>
+      <ul class="menusforsmalld flex">
+        <a href="index.html">
+          <li>Home</li>
+        </a>
+        <a href="AboutUs.html">
+          <li>About Us</li>
+        </a>
+        <a href="contactUs.html">
+          <li>Contact Us</li>
+        </a>
+
+        <div class="diamondCSD" id="diamondCSD">
+          <p>Diamond <i class="fa-solid fa-angle-down"></i></p>
+          <div class="diamondList" id="diamondList">
+            <a href="DiamondRing.html">
+              <p>Rings</p>
+            </a>
+            <a href="DiamondEarring.html">
+              <p>Earrings | Jhumkas</p>
+            </a>
+            <a href="DiamondMangalSutra.html">
+              <p>Mangalsutra</p>
+            </a>
+            <a href="DiamondBanglesBracelets.html">
+              <p>Bangles | Bracelet</p>
+            </a>
+            <a href="DiamondPendantSet.html">
+              <p>Pendant Set</p>
+            </a>
+            <a href="DiamondNecklaceHaram.html">
+              <p>Necklace | Haram</p>
+            </a>
+          </div>
+        </div>
+
+        <div class="gemstoneCSD" id="gemstoneCSD">
+          <p>Gemstone | Pearls <i class="fa-solid fa-angle-down"></i></p>
+          <div class="gemList" id="gemList">
+            <a href="Navratan.html">
+              <p>Navratan</p>
+            </a>
+            <a href="GemstomePearls.html">
+              <p>Jewellery</p>
+            </a>
+            <a href="BirthStone.html">
+              <p>Birth Stone</p>
+            </a>
+
+          </div>
+        </div>
+
+        <div class="customizedCSD" id="customizedCSD">
+          <p>Customized Jewellery <i class="fa-solid fa-angle-down"></i></p>
+          <div class="customizedList" id="customizedList">
+            <a href="GoldKundan.html">
+              <p>Gold | Kundan | Polki</p>
+            </a>
+            <a href="CustomizedJewellery.html">
+              <p>Diamond | Gemstone</p>
+            </a>
+
+
+          </div>
+        </div>
+      </ul>
+      <div class="socialMenusforsmalld flex">
+        <!-- <div class="socialDiv flex">
+        <p>Phone </p>
+        <p>|</p>
+        <i class="fa-solid fa-phone fa-sm" id="mobile"></i>
+
+    </div>
+    <div class="socialDiv flex">
+        <p>Mail </p>
+        <p>|</p>
+        <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+
+    </div>
+    <div class="socialDiv flex">
+        <p>Instagram </p>
+        <p>|</p>
+        <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+
+    </div>
+    <div class="socialDiv flex">
+        <p>Whats App </p>
+        <p>|</p>
+        <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+
+    </div> -->
+        <table>
+          <tr>
+            <td><a href="tel: +91 8097452090"><i class="fa-solid fa-phone fa-sm" id="mobile"></i></a></td>
+            <td>|</td>
+            <td><a href="tel: +91 8097452090">Phone</a></td>
+          </tr>
+          <tr>
+            <td><a href="mailto:shrimeenakshidiamonds@gmail.com"><i class="fa-regular fa-envelope fa-lg"
+                  id="gmail"></i></a></td>
+            <td>|</td>
+            <td><a href="mailto:shrimeenakshidiamonds@gmail.com">Mail</a></td>
+          </tr>
+          <tr>
+            <td><a href="https://www.instagram.com/smd.jewels/"><i class="fa-brands fa-instagram fa-lg"
+                  id="insta"></i></a></td>
+            <td>|</td>
+            <td><a href="https://www.instagram.com/smd.jewels/">Instagram</a></td>
+          </tr>
+          <tr>
+            <td><a href="https://wa.me/918097452090"><i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></a></i></td>
+            <td>|</td>
+            <td><a href="https://wa.me/918097452090">Whats App</a></td>
+          </tr>
+
+        </table>
+      </div>
+    </div>
+  </div>
+  <!-- Navbar -->
+
+
+
+  <!-- productCardTemplate -->
+  <template id="proCard">
+    <div class="card-wrapper ">
+      <div class="cardP">
+        <!-- card left -->
+        <div class="product-imgs">
+          <div class="img-display">
+            <div class="img-showcase" id="imageDisplay">
+              <img src="" alt="image" onclick="show(this.src)">
+              <img src="" alt="image" onclick="show(this.src)">
+              <img src="" alt="image" onclick="show(this.src)">
+              <img src="" alt="image" onclick="show(this.src)">
+            </div>
+          </div>
+          <div class="img-select">
+            <div class="img-item">
+              <img src="" onclick="ArRafi(this.getAttribute('data-id'),this.alt)">
+            </div>
+            <div class="img-item">
+              <img src="" onclick="ArRafi(this.getAttribute('data-id'),this.alt)">
+            </div>
+            <div class="img-item">
+              <img src="" onclick="ArRafi(this.getAttribute('data-id'),this.alt)">
+            </div>
+            <div class="img-item">
+              <img src="" onclick="ArRafi(this.getAttribute('data-id'),this.alt)">
+            </div>
+
+          </div>
+        </div>
+        <!-- card right -->
+        <div class="product-content">
+          <h4 class="product-title"></h4>
+          <div class="productWeight flex">
+            <div class="grossWeight">Gross Weight <br> <span id="grosswgt"></span> gm</div>
+            <div class="netWeight">Net Weight <br> <span id="netwgt"></span> gm</div>
+          </div>
+          <div class="productdetail flex">
+            <div class="diamondWeight">Diamond Weight <br> <span id="diamondwgt">0</span> CTS</div>
+            <div class="productPrice ">Wholesale Price <br> ₹ <span id="totalPrice"></span> /-</div>
+          </div>
+          <div class="lastRow flex">
+            <div class="karat" id="karat"></div>
+            <div>Diamond-GH-VS</div>
+          </div>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </template>
+  <!-- productCardTemplate -->
+
+
+  <div class="proCont">
+
+    <div class="pageHeading  flex">
+      <h2>Diamond Necklace | Haram</h2>
+      <div class="rightP flex">
+        <img src="collectionAssets/Badges/Badge.png" alt="">
+      </div>
+    </div>
+    <div class="productContainer flex " id="productContainerId">
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Footer start -->
+  <footer>
+    <div class="footerMainContainer flex container">
+      <div class="onefooterMainContainer flex">
+        <a href="index.html" class="flex"><img src="Assets/Logo/logoWhite.png" alt=""></a>
+      </div>
+      <div class="twofooterMainContainer flex">
+        <div class="ToptwofooterMainContainer flex">
+          <h3>Navigate</h3>
+          <a href="index.html">
+            <li>Home</li>
+          </a>
+          <a href="AboutUs.html">
+            <li>About Us</li>
+          </a>
+          <a href="contactUs.html">
+            <li>Contact Us</li>
+          </a>
+        </div>
+
+      </div>
+      <div class="threefooterMainContainer flex">
+
+        <div class="BottomtwofooterMainContainer flex">
+          <h3>Chase us on</h3>
+          <div class="socialIcons flex ">
+            <!-- <a href="#"><i class="footerIcon fa-solid fa-phone fa-lg" id="mobile"></i></a> -->
+            <!-- <a href="#"><i class="footerIcon fa-regular fa-envelope fa-lg" id="gmail"></i></a> -->
+            <a target="_blank" href="https://www.instagram.com/smd.jewels/"><i
+                class="footerIcon fa-brands fa-instagram fa-lg" id="insta"></i></a>
+            <a target="_blank" href="https://www.facebook.com/smdjewellers/"><i
+                class="footerIcon fa-brands fa-facebook-f fa-lg" id="fb"></i></a>
+            <a target="_blank" href="https://www.youtube.com/"><i class="footerIcon fa-brands fa-youtube fa-lg"
+                id="youtube"></i></a>
+            <a target="_blank" href="https://wa.me/918097452090"><i class="footerIcon fa-brands fa-whatsapp fa-lg"
+                id="whatsapp"></i></a>
+          </div>
+        </div>
+        <!-- <div class="CollectionNavigate flex">
+              <h3>Our Collections</h3>
+              <a href="#">
+                  <li>Diamonds</li>
+              </a>
+
+              <a href="#">
+                  <li>Gold Jewellery</li>
+              </a>
+              <a href="#">
+                  <li>Gemstone | Pearl</li>
+              </a>
+
+              <a href="#">
+                  <li>Customized Jewellery</li>
+              </a>
+          </div> -->
+      </div>
+      <div class="fourfooterMainContainer flex">
+        <h3>Address</h3>
+        <!-- <p>Salasar Nagar, BLDG No 5/103, Navghar Road, Bhayande, Navghar Rd, Bhayandar, Salasar Nagar, Bhayandar
+              East, Maharashtra 401105</p> -->
+        <a target="_blank" href="https://maps.app.goo.gl/EX2WQWazbPoacefX7">
+          <p>BLDG No 5/103, Navghar Road, Salasar Nagar, Bhayandar East, Maharashtra 401105.</p>
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <div class="subFooterContainer flex">
+    <p>All rights reserved. Powered by the <a href="https://acrosysinfotech.in/" target="_blank">Acrosys
+        Infotech</a></p>
+  </div>
+
+  <!-- Footer end -->
+
+
+
+
+  <!-- <div class="spacer" style="height: 50vh;"></div> -->
+
+  <script src="Collection.js"></script>
+  <script src="script.js"></script>
+  <script src="uni.js"></script>
+  <script>
+    let list = [
+
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b710c"
+        },
+        "proId": "SMDNK20230001",
+        "GrossWeight": 68.45,
+        "NetWeight": 55.75,
+        "DiamondWeight": 7.07,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 16000,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230001.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230001.1.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230001.2.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230001.3.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b710d"
+        },
+        "proId": "SMDNK20230002",
+        "GrossWeight": 12.42,
+        "NetWeight": 12.15,
+        "DiamondWeight": 1.36,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230002.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b710e"
+        },
+        "proId": "SMDNK20230003",
+        "GrossWeight": 80.78,
+        "NetWeight": 76.99,
+        "DiamondWeight": 12.44,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 4000,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230003.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230003.1.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230003.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b710f"
+        },
+        "proId": "SMDNK20230004",
+        "GrossWeight": 75.77,
+        "NetWeight": 73.21,
+        "DiamondWeight": 12.78,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230004.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7110"
+        },
+        "proId": "SMDNK20230005",
+        "GrossWeight": 58.09,
+        "NetWeight": 52.78,
+        "DiamondWeight": 7.88,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 10000,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230005.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230005.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7111"
+        },
+        "proId": "SMDNK20230006",
+        "GrossWeight": 55.71,
+        "NetWeight": 50.02,
+        "DiamondWeight": 7.27,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 10000,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230006.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230006.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7112"
+        },
+        "proId": "SMDNK20230007",
+        "GrossWeight": 49.97,
+        "NetWeight": 46.01,
+        "DiamondWeight": 19.83,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230007.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7113"
+        },
+        "proId": "SMDNK20230008",
+        "GrossWeight": 57.57,
+        "NetWeight": 55.75,
+        "DiamondWeight": 9.12,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230008.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230008.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7114"
+        },
+        "proId": "SMDNK20230009",
+        "GrossWeight": 19.88,
+        "NetWeight": 19.4,
+        "DiamondWeight": 2.41,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230009.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230009.1.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230009.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7115"
+        },
+        "proId": "SMDNK20230010",
+        "GrossWeight": 29.78,
+        "NetWeight": 29.21,
+        "DiamondWeight": 2.85,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230010.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230010.1.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230010.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7116"
+        },
+        "proId": "SMDNK20230011",
+        "GrossWeight": 22.66,
+        "NetWeight": 22.24,
+        "DiamondWeight": 2.12,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230011.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230011.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7117"
+        },
+        "proId": "SMDNK20230012",
+        "GrossWeight": 55.99,
+        "NetWeight": 54.54,
+        "DiamondWeight": 7.27,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230012.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230012.1.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230012.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7118"
+        },
+        "proId": "SMDNK20230013",
+        "GrossWeight": 54.53,
+        "NetWeight": 43.72,
+        "DiamondWeight": 9.04,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 10000,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230013.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230013.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7119"
+        },
+        "proId": "SMDNK20230014",
+        "GrossWeight": 22.22,
+        "NetWeight": 22.1,
+        "DiamondWeight": 0.6,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230014.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230014.1.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230014.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b711a"
+        },
+        "proId": "SMDNK20230015",
+        "GrossWeight": 40.68,
+        "NetWeight": 39.62,
+        "DiamondWeight": 5.31,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 65000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230015.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230015.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b711b"
+        },
+        "proId": "SMDNK20230016",
+        "GrossWeight": 32.11,
+        "NetWeight": 30.99,
+        "DiamondWeight": 5.61,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230016.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b711c"
+        },
+        "proId": "SMDNK20230017",
+        "GrossWeight": 107.47,
+        "NetWeight": 92.47,
+        "DiamondWeight": 12.84,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 225000,
+        "colorStoneDes": "15 CTS REAL TANZANITE @15000 RD PER CARAT ",
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDNK20230017.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b7109"
+        },
+        "proId": "SMDHR20230001",
+        "GrossWeight": 126.72,
+        "NetWeight": 121.18,
+        "DiamondWeight": 17.78,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 6000,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDHR20230001.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDHR20230001.1.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDHR20230001.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b710a"
+        },
+        "proId": "SMDHR20230002",
+        "GrossWeight": 164.54,
+        "NetWeight": 145.04,
+        "DiamondWeight": 21.27,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 35000,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDHR20230002.webp",
+          "collectionAssets/Diamond/NecklaceHaram/SMDHR20230002.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6576f56cbfd37e83f18b710b"
+        },
+        "proId": "SMDHR20230003",
+        "GrossWeight": 172.77,
+        "NetWeight": 144.92,
+        "DiamondWeight": 22.45,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 45000,
+        "images": [
+          "collectionAssets/Diamond/NecklaceHaram/SMDHR20230003.webp"
+        ]
+      }]
+
+    let imgId = 0;
+    function ArRafi(dataId, showCaseId) {
+      imgId = dataId;
+      slideImage(showCaseId);
+    }
+    function slideImage(classs) {
+      const displayWidth = document.querySelector(`.${classs} img:first-child`).clientWidth;
+      document.querySelector(`.${classs}`).style.transform = `translateX(${- (imgId - 1) * displayWidth}px)`;
+    }
+
+    let card = document.getElementById('proCard');
+    let productContainerId = document.getElementById('productContainerId');
+    productContainerId.innerHTML = " ";
+    const goldRate = 4864;
+    const goldRate22kt = 5888;
+    list.forEach(i => {
+      const newcard = card.content.cloneNode(true);
+
+      let tdiamondRate = 0;
+      let tgoldRate = 0
+      let tmc = 0;
+      let twsp = 0;
+
+      tdiamondRate = i.DiamondWeight * i.DiamondRate;
+
+      if (i.Karat == '22kt Gold') {
+
+        tgoldRate = i.NetWeight * goldRate22kt;
+      }
+      else {
+
+        tgoldRate = i.NetWeight * goldRate;
+      }
+
+      tmc = i.NetWeight * i.MakingCharges;
+
+      twsp = tdiamondRate + tgoldRate + tmc + i.colorStone;
+      console.log(twsp)
+      newcard.querySelector('#imageDisplay').classList.add(i.proId);
+      newcard.querySelector('.product-title').innerHTML = i.proId;
+      newcard.querySelector('#grosswgt').innerHTML = i.GrossWeight;
+      newcard.querySelector('#netwgt').innerHTML = i.NetWeight;
+      newcard.querySelector('#diamondwgt').innerHTML = i.DiamondWeight;
+      newcard.querySelector('#totalPrice').innerHTML = Math.round(twsp);
+      newcard.querySelector('.karat').innerHTML = i.Karat;
+
+
+      let showcaseImages = newcard.querySelectorAll('.img-showcase img');
+      let selectImages = newcard.querySelectorAll('.img-select img');
+
+      for (let k = 0; k < i.images.length; k++) {
+        showcaseImages[k].src = i.images[k];
+      }
+      let dataId = 1;
+      for (let k = 0; k < i.images.length; k++) {
+        selectImages[k].src = i.images[k];
+        selectImages[k].alt = i.proId;
+        selectImages[k].setAttribute('data-id', dataId++);
+      }
+
+
+
+      productContainerId.appendChild(newcard);
+      // product-container.appendChild(newcard);
+    });
+    window.addEventListener('resize', slideImage);
+  </script>
+</body>
+
+</html>

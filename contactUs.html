@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="icon" type="image/x-icon" href="DisplayAssests/Favicon/ms-icon-150x150.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="contactUs.css">
+    <script src="https://kit.fontawesome.com/ab6ce438bd.js" crossorigin="anonymous"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+</head>
+
+<body>
+    <div class="b2cmobShow " id="b2cmobShow">
+        <i id="b2cmobShowX" class="fa-solid fa-xmark"></i>
+        <div class="xyz flex">
+            <img src="Assets/myAssest/b2c.jpg" width="80%" alt="">
+            <p>
+                As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+                directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+                savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+            </p>
+        </div>
+    </div>
+    <div class="B2CforMobile " id="b2cMobile">
+        <i id="mobileX" class="fa-solid fa-xmark"></i>
+        <img id="b2cmobileImg" src="Assets/myAssest/badge/badge.png" alt="">
+    </div>
+    <div class="whatsappdiv">
+        <a target="_blank" href="https://wa.me/918097452090">
+            <img src="DisplayAssests/whatsapp-logo-png-2260.png" alt="">
+        </a>
+    </div>
+  <!-- Navbar -->
+  <nav>
+    <div class="navbar flex container">
+        <div class="leftNav">
+            <a href="index.html"><img src="Assets/logo/logo.png" alt=""></a>
+        </div>
+        <div class="middleNav">
+            <ul class="menus flex">
+                <div id="homePage">
+                    <a href="index.html">
+                        <li>Home</li>
+                    </a>
+                </div>
+
+                <div id="diamondCate">
+                    <div>Diamond</div>
+                    <div class="dropDown flex" id="diamondCateContainer">
+                        <a href="DiamondRing.html">
+                            <p>Rings</p>
+                        </a>
+                        <a href="DiamondEarring.html">
+                            <p>Earrings | Jhumkas</p>
+                        </a>
+                        <a href="DiamondMangalSutra.html">
+                            <p>Mangalsutra</p>
+                        </a>
+                        <a href="DiamondBanglesBracelets.html">
+                            <p>Bangles | Bracelet</p>
+                        </a>
+                        <a href="DiamondPendantSet.html">
+                            <p>Pendant Set</p>
+                        </a>
+                        <a href="DiamondNecklaceHaram.html">
+                            <p>Necklace | Haram</p>
+                        </a>
+                    </div>
+                </div>
+                <div id="GemstonePearlsCate">
+                    <div >Gemstone</div>
+                    <div class="dropDownG flex" id="GemstonePearlsCateContainer">
+                        <a href="Navratan.html">
+                            <p>Navratan</p>
+                        </a>
+                        <a href="GemstomePearls.html">
+                            <p>Gemstone Jewellery</p>
+                        </a>
+                        <a href="BirthStone.html">
+                            <p>Birth Stone</p>
+                        </a>
+
+                    </div>
+                </div>
+                <div id="cusCate">
+                    <div>Customized Jewellery</div>
+                    <div class="dropDownc flex" id="cusCateContainer">
+                        <a href="GoldKundan.html">
+                            <p>Gold | Kundan | Polki</p>
+                        </a>
+                        <a href="CustomizedJewellery.html">
+                            <p>Diamond | Gemstone Jewellery</p>
+                        </a>
+
+
+                    </div>
+                </div>
+
+
+                <div id="aboutPage">
+                    <a href="AboutUs.html">
+                        <li>About Us</li>
+                    </a>
+                </div>
+
+                <!-- <a href="contactUs.html">
+                    <li>Contact Us</li>
+                </a>
+
+                <li id="ourCol">Our Collections</li> -->
+            </ul>
+        </div>
+        <div class="rightNav flex ">
+            <img id="b2cId" class="b2c" src="Assets/myAssest/badge/badge.png" alt="">
+
+            <i class="fa-solid fa-phone fa-lg" id="mobile"></i>
+            <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+            <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+            <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+        </div>
+
+        <div class="hamburger">
+            <i class="fa-solid fa-bars fa-lg" id="hamburgerId"></i>
+        </div>
+    </div>
+    <div class="ourCollectionContainer" id="ourCollectionContainerid">
+        <div class="ourCollectionMain container flex">
+            <div class="diamondCat">
+                <h4>Diamond</h4>
+                <a href="">
+                    <li>Rings </li>
+                </a>
+                <a href="">
+                    <li>Earrings | Jhumkas</li>
+                </a>
+                <a href="">
+                    <li>Mangalsutra</li>
+                </a>
+                <a href="">
+                    <li>Bangles | Bracelet</li>
+                </a>
+                <a href="">
+                    <li>Pendant Set</li>
+                </a>
+                <a href="">
+                    <li>Necklace | Haram</li>
+                </a>
+            </div>
+            <div class="goldCat">
+                <h4>Gold</h4>
+                <a href="">
+                    <li>Rings </li>
+                </a>
+                <a href="">
+                    <li>Earrings | Jhumkas</li>
+                </a>
+                <a href="">
+                    <li>Mangalsutra</li>
+                </a>
+                <a href="">
+                    <li>Bangles | Bracelet</li>
+                </a>
+                <a href="">
+                    <li>Pendant Set</li>
+                </a>
+                <a href="">
+                    <li>Necklace | Haram</li>
+                </a>
+            </div>
+            <div class="gemstoneCat">
+                <h4>Gemstones | Pearls</h4>
+                <a href="">
+                    <li>Navratna</li>
+                </a>
+                <a href="">
+                    <li>Exclusive</li>
+                </a>
+                <a href="">
+                    <li>Jewellery</li>
+                </a>
+                <a href="">
+                    <li>Birth Stone</li>
+                </a>
+
+            </div>
+            <div class="customizedCat">
+                <h4>Customized Jewellery</h4>
+                <a href="">
+                    <li>Jewellery</li>
+                </a>
+
+            </div>
+        </div>
+
+    </div>
+    <div class="b2cContainer flex" id="b2cContainerId">
+        <div class="b2cContent container flex">
+            <div class="imgDivContainer ">
+                <img src="Assets/myAssest/b2c.jpg" alt="">
+            </div>
+            <div class="descriptionDivContainer flex">
+                <p>
+                    As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+                    directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+                    savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+                </p>
+               
+
+            </div>
+        </div>
+
+    </div>
+</nav>
+<!-- SideBar for devices smaller then laptop  fa-x -->
+<div class="sideMain" id="sideBarId">
+    <div class="sideBar flex">
+        <i class="fa-solid fa-arrow-right-long fa-lg" id="cross"></i>
+        <ul class="menusforsmalld flex">
+            <a href="index.html">
+                <li>Home</li>
+            </a>
+            <a href="AboutUs.html">
+                <li>About Us</li>
+            </a>
+            <a href="contactUs.html">
+                <li>Contact Us</li>
+            </a>
+
+            <div class="diamondCSD" id="diamondCSD">
+                <p>Diamond <i class="fa-solid fa-angle-down"></i></p>
+                <div class="diamondList" id="diamondList">
+                    <a href="DiamondRing.html">
+                        <p>Rings</p>
+                    </a>
+                    <a href="DiamondEarring.html">
+                        <p>Earrings | Jhumkas</p>
+                    </a>
+                    <a href="DiamondMangalSutra.html">
+                        <p>Mangalsutra</p>
+                    </a>
+                    <a href="DiamondBanglesBracelets.html">
+                        <p>Bangles | Bracelet</p>
+                    </a>
+                    <a href="DiamondPendantSet.html">
+                        <p>Pendant Set</p>
+                    </a>
+                    <a href="DiamondNecklaceHaram.html">
+                        <p>Necklace | Haram</p>
+                    </a>
+                </div>
+            </div>
+
+            <div class="gemstoneCSD" id="gemstoneCSD">
+                <p>Gemstone | Pearls <i class="fa-solid fa-angle-down"></i></p>
+                <div class="gemList" id="gemList">
+                    <a href="Navratan.html">
+                        <p>Navratan</p>
+                    </a>
+                    <a href="GemstomePearls.html">
+                        <p>Jewellery</p>
+                    </a>
+                    <a href="BirthStone.html">
+                        <p>Birth Stone</p>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="customizedCSD" id="customizedCSD">
+                <p>Customized Jewellery <i class="fa-solid fa-angle-down"></i></p>
+                <div class="customizedList" id="customizedList">
+                    <a href="GoldKundan.html">
+                        <p>Gold | Kundan | Polki</p>
+                    </a>
+                    <a href="CustomizedJewellery.html">
+                        <p>Diamond | Gemstone</p>
+                    </a>
+
+
+                </div>
+            </div>
+        </ul>
+        <div class="socialMenusforsmalld flex">
+            <!-- <div class="socialDiv flex">
+            <p>Phone </p>
+            <p>|</p>
+            <i class="fa-solid fa-phone fa-sm" id="mobile"></i>
+
+        </div>
+        <div class="socialDiv flex">
+            <p>Mail </p>
+            <p>|</p>
+            <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+
+        </div>
+        <div class="socialDiv flex">
+            <p>Instagram </p>
+            <p>|</p>
+            <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+
+        </div>
+        <div class="socialDiv flex">
+            <p>Whats App </p>
+            <p>|</p>
+            <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+
+        </div> -->
+            <table>
+                <tr>
+                    <td><a href="tel: +91 8097452090"><i class="fa-solid fa-phone fa-sm" id="mobile"></i></a></td>
+                    <td>|</td>
+                    <td><a href="tel: +91 8097452090">Phone</a></td>
+                </tr>
+                <tr>
+                    <td><a href="mailto:shrimeenakshidiamonds@gmail.com"><i class="fa-regular fa-envelope fa-lg"
+                                id="gmail"></i></a></td>
+                    <td>|</td>
+                    <td><a href="mailto:shrimeenakshidiamonds@gmail.com">Mail</a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.instagram.com/smd.jewels/"><i class="fa-brands fa-instagram fa-lg"
+                                id="insta"></i></a></td>
+                    <td>|</td>
+                    <td><a href="https://www.instagram.com/smd.jewels/">Instagram</a></td>
+                </tr>
+                <tr>
+                    <td><a href="https://wa.me/918097452090"><i class="fa-brands fa-whatsapp fa-lg"
+                                id="whatsapp"></a></i></td>
+                    <td>|</td>
+                    <td><a href="https://wa.me/918097452090">Whats App</a></td>
+                </tr>
+
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Navbar -->
+
+
+    <div class="contactUsBanner flex">
+        <div class="overlay"></div>
+        <h1 class="headingContactUs">
+            Contact Us
+        </h1>
+    </div>
+
+
+
+
+    <!-- form Start -->
+
+    <div class="mainformContianer">
+        <div class="formContainer flex">
+            <div class="upperFormcontainer flex">
+                <div class="locationConatiner border flex">
+                    <i class="fa-solid fa-location-dot fa-2xl"></i>
+                    <h3>Where are we? </h3>
+                    <a href="https://maps.app.goo.gl/EX2WQWazbPoacefX7" target="_blank">
+                        <p>BLDG No 5/103, Navghar Road, Salasar Nagar, Bhayandar East, Maharashtra 401105.</p>
+                    </a>
+                </div>
+                <div class="callUsContainer border flex">
+                    <i class="fa-solid fa-tty fa-2xl"></i>
+                    <h3>Call Us</h3>
+                    <p><span class="highlight">Mobile:</span> <a href="tel: +91 773 841 34 67">+91 77384 13467</a></p>
+                    <p><span class="highlight">Mobile:</span> <a href="tel: +91 809 745 20 90">+91 80974 52090</a></p>
+                </div>
+                <div class="emailUsContainer border flex">
+                    <i class="fa-regular fa-envelope fa-2xl"></i>
+                    <h3>Email Us</h3>
+                    <p><span class="highlight">Gmail :</span> <a href="mailto:shrimeenakshidiamonds@gmail.com"
+                            target="_blank">shrimeenakshidiamonds@gmail.com</a></p>
+                </div>
+                <div class="workingHourContainer border flex">
+                    <i class="fa-regular fa-clock fa-2xl"></i>
+                    <h3>Working Hours</h3>
+                    <p><span class="highlight">Monday to Sunday :<br></span> 10:00 am to 8:00 pm</p>
+                    <!-- <p><span class="highlight">Sunday :<br></span> Open On Prior Appointments</p> -->
+                </div>
+            </div>
+
+            <form class="inputContainer flex" action="" onsubmit="sendEmail(); reset(); return false;">
+
+
+                <h2>SEND AN EMAIL</h2>
+
+                <div class="flex haha">
+                    <p class="starMark"></p><input type="text" id="name" placeholder="Name" id="name" required>
+                </div>
+                <div class="flex haha">
+                    <p class="starMark"></p><input type="email" id="email" placeholder="Email" required>
+                </div>
+                <div class="flex haha">
+                    <p class="starMark"></p><input type="text" id="mobileNo" placeholder="Phone" required>
+                </div>
+                <div class="flex haha">
+                    <textarea placeholder="Your Message here ..." id="message"></textarea>
+                </div>
+
+                <input id="buttonSubmit" type="submit" value="Send Message">
+
+
+
+
+
+            </form>
+        </div>
+
+
+
+
+    </div>
+
+    <!-- end form -->
+
+
+  <!-- Footer start -->
+  <footer>
+    <div class="footerMainContainer flex container">
+        <div class="onefooterMainContainer flex">
+            <a href="index.html" class="flex"><img src="Assets/Logo/logoWhite.png" alt=""></a>
+        </div>
+        <div class="twofooterMainContainer flex">
+            <div class="ToptwofooterMainContainer flex">
+                <h3>Navigate</h3>
+                <a href="index.html">
+                    <li>Home</li>
+                </a>
+                <a href="AboutUs.html">
+                    <li>About Us</li>
+                </a>
+                <a href="contactUs.html">
+                    <li>Contact Us</li>
+                </a>
+            </div>
+
+        </div>
+        <div class="threefooterMainContainer flex">
+
+            <div class="BottomtwofooterMainContainer flex">
+                <h3>Chase us on</h3>
+                <div class="socialIcons flex ">
+                    <!-- <a href="#"><i class="footerIcon fa-solid fa-phone fa-lg" id="mobile"></i></a> -->
+                    <!-- <a href="#"><i class="footerIcon fa-regular fa-envelope fa-lg" id="gmail"></i></a> -->
+                    <a target="_blank" href="https://www.instagram.com/smd.jewels/"><i
+                            class="footerIcon fa-brands fa-instagram fa-lg" id="insta"></i></a>
+                    <a target="_blank" href="https://www.facebook.com/smdjewellers/"><i
+                            class="footerIcon fa-brands fa-facebook-f fa-lg" id="fb"></i></a>
+                    <a target="_blank" href="https://www.youtube.com/"><i
+                            class="footerIcon fa-brands fa-youtube fa-lg" id="youtube"></i></a>
+                    <a target="_blank" href="https://wa.me/918097452090"><i
+                            class="footerIcon fa-brands fa-whatsapp fa-lg" id="whatsapp"></i></a>
+                </div>
+            </div>
+            <!-- <div class="CollectionNavigate flex">
+                <h3>Our Collections</h3>
+                <a href="#">
+                    <li>Diamonds</li>
+                </a>
+
+                <a href="#">
+                    <li>Gold Jewellery</li>
+                </a>
+                <a href="#">
+                    <li>Gemstone | Pearl</li>
+                </a>
+
+                <a href="#">
+                    <li>Customized Jewellery</li>
+                </a>
+            </div> -->
+        </div>
+        <div class="fourfooterMainContainer flex">
+            <h3>Address</h3>
+            <!-- <p>Salasar Nagar, BLDG No 5/103, Navghar Road, Bhayande, Navghar Rd, Bhayandar, Salasar Nagar, Bhayandar
+                East, Maharashtra 401105</p> -->
+            <a target="_blank" href="https://maps.app.goo.gl/EX2WQWazbPoacefX7">
+                <p>BLDG No 5/103, Navghar Road, Salasar Nagar, Bhayandar East, Maharashtra 401105.</p>
+            </a>
+        </div>
+    </div>
+</footer>
+
+<div class="subFooterContainer flex">
+    <p>All rights reserved. Powered by the <a href="https://acrosysinfotech.in/" target="_blank">Acrosys
+            Infotech</a></p>
+</div>
+
+<!-- Footer end -->
+
+
+    <script src="script.js"></script>
+    <script src="ContactUs.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="uni.js"></script>
+</body>
+
+</html>

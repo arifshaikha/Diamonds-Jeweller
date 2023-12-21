@@ -1,0 +1,347 @@
+.aboutUsBanner {
+    margin-top: 75px;
+    background-color: white;
+    height: 300px;
+    background: url('Assets/home_background_banner/aboutUsBanner.jpg');
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: end;
+    align-items: center;
+    padding-block: 20px;
+    position: relative;
+}
+
+.headingAboutUs {
+    color: white;
+    z-index: 1;
+}
+
+.aboutUsBanner img {
+    width: 100%;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    /* background-color: rgba(0, 0, 0, 0.425); */
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.603), rgba(0, 0, 0, 0));
+}
+
+
+.aboutXYZMain{
+    padding-block: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-block: 30px;
+}
+.aboutXYZ{
+    justify-content: space-between;
+}
+.aboutusContentContainer {
+    font-family: 'Roboto Slab', serif;
+    margin-top: 60px;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    width: 60%;
+}
+
+
+
+.aboutusContentContainerDescription {
+    /* border-radius: 25px 0px; */
+    width: 100%;
+    color: black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    padding: 40px 45px;
+    gap: 30px;
+    line-height: 35px;
+    background-image: url('Assets/myAssest/Diamond_bannerbg-scaled.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aboutusContentContainerDescription img {
+    width: 50%;
+}
+
+.aboutusContentContainerDescription p {
+    text-align: center;
+}
+
+.founderMainContainer {
+    width: 40%;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+}
+
+.imageSection {
+    justify-content: center;
+}
+
+.imageSection img {
+    width: 70%;
+    border: 5px solid #A59176;
+    /* border-bottom-left-radius: 300px;
+    border-bottom-right-radius: 300px; */
+    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.39));
+    /* box-shadow: 0px 15px 5px rgba(128, 128, 128, 0.144); */
+
+}
+
+.detailSection {
+    flex-direction: column;
+    justify-content: center;
+    /* gap: 5; */
+}
+
+/* <!-- Founder Section start --> */
+/* 
+.founderContainer{
+    font-family: 'Roboto Slab', serif;
+   
+    width: 100%;
+    margin-block: 40px;
+   
+
+}
+.founderMainContainer{
+    background-color: white;
+    box-shadow: 0px 10px 5px rgba(128, 128, 128, 0.651);
+    padding-block: 60px;
+    justify-content: space-between;
+}
+.imageSection{
+    justify-content: center;
+    align-items: center;
+}
+.imageSection img{
+    width: 40%;
+    border: 9px solid #ccab5e ;;
+    border-radius: 500px;
+    box-shadow: 0px 10px 5px rgba(128, 128, 128, 0.678);
+
+}
+
+.leftfounderMainContainer{
+    width: 45%;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+   
+}
+
+.detailSection{
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+}
+.qualificationSec p{
+    text-align: center;
+}
+.rightfounderMainContainer{
+    width: 55%;    
+    letter-spacing: 1px;
+    line-height: 38px;
+    padding-inline: 20px;
+}
+
+.speechSection span{    
+    font-weight: 700;
+} */
+
+/* <!-- Founder Section end --> */
+
+
+
+
+.discoverConatiner {
+    margin-top: 60px;
+    justify-content: center;
+    line-height: 50px;
+}
+
+.discoverConatiner h1 {
+    text-align: center;
+}
+
+.hahabg {
+    padding-block: 15px;
+    background-color: #e2d4d3;
+    background: url('Assets/myAssest/Diamond_bannerbg-scaled.jpg');
+}
+
+
+/* <!-- contact us section start --> */
+
+.contactUsSectionMain {
+    color: #ffffff;
+    position: relative;
+    /* font-family: 'Roboto Slab', serif; */
+    margin-top: 70px;
+    width: 100%;
+    padding: 150px 100px;
+    background-color: #e2d4d3;
+    background-image: url('Assets/ForBanner/webp/IMG_20230817_10145311.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.contactUsSection {
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 20px;
+    width: 60%;
+    z-index: 2;
+}
+
+.contactUsSection p {
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+
+.layer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* background-color: rgba(0, 0, 0, 0.4); */
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.4));
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.contactUsSection .btnArrow {
+    border: none;
+    font-weight: 800;
+    letter-spacing: 1px;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 8px 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 1px solid white;
+    transition: all 0.3s ease-in-out;
+}
+
+.btnArrow i {
+    margin-left: 5px
+}
+
+.contactUsSection .btnArrow:hover {
+    background-color: #00000079;
+    color: #ffffff;
+}
+
+.contactUsSection .btnArrow:active {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+
+/* <!-- contact us section end --> */
+
+
+
+/* =============================================== */
+
+
+/* For Laptop */
+@media screen and (width <=1024px) {
+
+    .aboutusContentContainerDescription {
+        width: 80%;
+    }
+}
+
+
+/* For Tablet */
+@media screen and (width <=768px) {
+
+    .aboutUsBanner {
+        margin-top: 70px;
+        height: 200px;
+    }
+
+    /* <!-- contact us section start --> */
+
+    .contactUsSectionMain {
+        margin-top: 70px;
+        width: 100%;
+        padding: 70px 50px;
+    }
+
+    .contactUsSection {
+        flex-direction: column;
+        justify-content: start;
+        align-items: start;
+        gap: 20px;
+        width: 80%;
+    }
+
+
+    /* <!-- contact us section end --> */
+
+    .aboutXYZ{
+        
+        margin-block: 30px;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    .founderMainContainer{
+        width: 100%;
+    }
+    .aboutusContentContainer{
+        width: 100%;
+    }
+    .aboutusContentContainerDescription img {
+        width: 70%;
+    }
+    .imageSection img {
+        width: 50%;
+    }
+
+}
+
+
+/* For mobile */
+
+@media screen and (max-width: 604px) {
+
+    .aboutusBannerMain {
+        height: 150px;
+        margin-top: 60px;
+    }
+
+    .aboutusContentContainerDescription {
+        width: 95%;
+        padding: 30px 15px;
+    }
+
+    /* <!-- contact us section start --> */
+
+    .contactUsSectionMain {
+        width: 100%;
+        padding: 50px 20px;
+    }
+
+    .contactUsSection {
+
+        gap: 20px;
+        width: 100%;
+    }
+
+
+    /* <!-- contact us section end --> */
+
+}

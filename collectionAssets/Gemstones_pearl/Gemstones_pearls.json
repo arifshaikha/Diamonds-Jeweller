@@ -1,0 +1,170 @@
+[
+  {
+  "_id": {
+    "$oid": "657851bca4b2c605342c0404"
+  },
+  "proId": "SMDGEM20230001",
+  "GrossWeight": 5.86,
+  "NetWeight": 5.6,
+  "DiamondWeight": 0.24,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 4000,
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230001.webp",
+    "collectionAssets/Gemstones_pearl/SMDGEM20230001.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657851bca4b2c605342c0405"
+  },
+  "proId": "SMDGEM20230002",
+  "GrossWeight": 47.52,
+  "NetWeight": 45.86,
+  "DiamondWeight": 3.52,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 65000,
+  "colorStone": 7200,
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230002.webp",
+    "collectionAssets/Gemstones_pearl/SMDGEM20230002.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657851bca4b2c605342c0406"
+  },
+  "proId": "SMDGEM20230003",
+  "GrossWeight": 12,
+  "NetWeight": 11.5,
+  "DiamondWeight": 0.3,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230003.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657851bca4b2c605342c0407"
+  },
+  "proId": "SMDGEM20230004",
+  "GrossWeight": 174.46,
+  "NetWeight": 141.89,
+  "DiamondWeight": 12.43,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 134000,
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230004.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657851bca4b2c605342c0408"
+  },
+  "proId": "SMDGEM20230005",
+  "GrossWeight": 4.85,
+  "NetWeight": 3.9,
+  "DiamondWeight": 0.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 36000,
+  "colorStoneDes": "4.5ct  zambian",
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230005.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657851bca4b2c605342c0409"
+  },
+  "proId": "SMDGEM20230006",
+  "GrossWeight": 10.15,
+  "NetWeight": 9.64,
+  "DiamondWeight": 0.3,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 7875,
+  "colorStoneDes": "2.5ct zambian 3.5k",
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230006.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657851bca4b2c605342c040a"
+  },
+  "proId": "SMDGEM20230007",
+  "GrossWeight": 3.5,
+  "NetWeight": 3,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 11250,
+  "colorStoneDes": "2.5ct bangkok ",
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230007.webp",
+    "collectionAssets/Gemstones_pearl/SMDGEM20230007.1.webp",
+    "collectionAssets/Gemstones_pearl/SMDGEM20230007.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657851bca4b2c605342c040b"
+  },
+  "proId": "SMDGEM20230008",
+  "GrossWeight": 20.93,
+  "NetWeight": 11.79,
+  "DiamondWeight": 1.87,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 35000,
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230008.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657851bca4b2c605342c040c"
+  },
+  "proId": "SMDGEM20230009",
+  "GrossWeight": 36.88,
+  "NetWeight": 36.88,
+  "DiamondWeight": 0,
+  "MakingCharges": 0,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 45000,
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230009.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657851bca4b2c605342c040d"
+  },
+  "proId": "SMDGEM20230010",
+  "GrossWeight": 8.88,
+  "NetWeight": 7.98,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 24300,
+  "colorStoneDes": "4.5 cts bangkok ",
+  "images": [
+    "collectionAssets/Gemstones_pearl/SMDGEM20230010.webp",
+    "collectionAssets/Gemstones_pearl/SMDGEM20230010.1.webp"
+  ]
+}]

@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="icon" type="image/x-icon" href="DisplayAssests/Favicon/ms-icon-150x150.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="AboutUs.css">
+    <script src="https://kit.fontawesome.com/ab6ce438bd.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div class="b2cmobShow " id="b2cmobShow">
+        <i id="b2cmobShowX" class="fa-solid fa-xmark"></i>
+        <div class="xyz flex">
+            <img src="Assets/myAssest/b2c.jpg" width="80%" alt="">
+            <p>
+                As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+                directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+                savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+            </p>
+        </div>
+    </div>
+    <div class="B2CforMobile " id="b2cMobile">
+        <i id="mobileX" class="fa-solid fa-xmark"></i>
+        <img id="b2cmobileImg" src="Assets/myAssest/badge/badge.png" alt="">
+    </div>
+    <div class="whatsappdiv">
+        <a target="_blank" href="https://wa.me/918097452090">
+            <img src="DisplayAssests/whatsapp-logo-png-2260.png" alt="">
+        </a>
+    </div>
+    <!-- image viewer start-->
+    <div class="imageView " id="imageView">
+        <img src="Assets/1.jpg" alt="Photo" id="imageDis">
+        <p onclick="closeViewer()"><i class="fa-solid fa-xmark"></i></p>
+
+    </div>
+    <!-- image viewer end-->
+
+    <!-- Navbar -->
+    <nav>
+        <div class="navbar flex container">
+            <div class="leftNav">
+                <a href="index.html"><img src="Assets/logo/logo.png" alt=""></a>
+            </div>
+            <div class="middleNav">
+                <ul class="menus flex">
+                    <div id="homePage">
+                        <a href="index.html">
+                            <li>Home</li>
+                        </a>
+                    </div>
+
+                    <div id="diamondCate">
+                        <div>Diamond</div>
+                        <div class="dropDown flex" id="diamondCateContainer">
+                            <a href="DiamondRing.html">
+                                <p>Rings</p>
+                            </a>
+                            <a href="DiamondEarring.html">
+                                <p>Earrings | Jhumkas</p>
+                            </a>
+                            <a href="DiamondMangalSutra.html">
+                                <p>Mangalsutra</p>
+                            </a>
+                            <a href="DiamondBanglesBracelets.html">
+                                <p>Bangles | Bracelet</p>
+                            </a>
+                            <a href="DiamondPendantSet.html">
+                                <p>Pendant Set</p>
+                            </a>
+                            <a href="DiamondNecklaceHaram.html">
+                                <p>Necklace | Haram</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div id="GemstonePearlsCate">
+                        <div>Gemstone</div>
+                        <div class="dropDownG flex" id="GemstonePearlsCateContainer">
+                            <a href="Navratan.html">
+                                <p>Navratan</p>
+                            </a>
+                            <a href="GemstomePearls.html">
+                                <p>Gemstone Jewellery</p>
+                            </a>
+                            <a href="BirthStone.html">
+                                <p>Birth Stone</p>
+                            </a>
+
+                        </div>
+                    </div>
+                    <div id="cusCate">
+                        <div>Customized Jewellery</div>
+                        <div class="dropDownc flex" id="cusCateContainer">
+                            <a href="GoldKundan.html">
+                                <p>Gold | Kundan | Polki</p>
+                            </a>
+                            <a href="CustomizedJewellery.html">
+                                <p>Diamond | Gemstone Jewellery</p>
+                            </a>
+
+
+                        </div>
+                    </div>
+
+
+                    <div id="aboutPage">
+                        <a href="AboutUs.html">
+                            <li id="active">About Us</li>
+                        </a>
+                    </div>
+
+                    <!-- <a href="contactUs.html">
+                    <li>Contact Us</li>
+                </a>
+
+                <li id="ourCol">Our Collections</li> -->
+                </ul>
+            </div>
+            <div class="rightNav flex ">
+                <img id="b2cId" class="b2c" src="Assets/myAssest/badge/badge.png" alt="">
+
+                <i class="fa-solid fa-phone fa-lg" id="mobile"></i>
+                <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+                <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+                <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+            </div>
+
+            <div class="hamburger">
+                <i class="fa-solid fa-bars fa-lg" id="hamburgerId"></i>
+            </div>
+        </div>
+        <div class="ourCollectionContainer" id="ourCollectionContainerid">
+            <div class="ourCollectionMain container flex">
+                <div class="diamondCat">
+                    <h4>Diamond</h4>
+                    <a href="">
+                        <li>Rings </li>
+                    </a>
+                    <a href="">
+                        <li>Earrings | Jhumkas</li>
+                    </a>
+                    <a href="">
+                        <li>Mangalsutra</li>
+                    </a>
+                    <a href="">
+                        <li>Bangles | Bracelet</li>
+                    </a>
+                    <a href="">
+                        <li>Pendant Set</li>
+                    </a>
+                    <a href="">
+                        <li>Necklace | Haram</li>
+                    </a>
+                </div>
+                <div class="goldCat">
+                    <h4>Gold</h4>
+                    <a href="">
+                        <li>Rings </li>
+                    </a>
+                    <a href="">
+                        <li>Earrings | Jhumkas</li>
+                    </a>
+                    <a href="">
+                        <li>Mangalsutra</li>
+                    </a>
+                    <a href="">
+                        <li>Bangles | Bracelet</li>
+                    </a>
+                    <a href="">
+                        <li>Pendant Set</li>
+                    </a>
+                    <a href="">
+                        <li>Necklace | Haram</li>
+                    </a>
+                </div>
+                <div class="gemstoneCat">
+                    <h4>Gemstones | Pearls</h4>
+                    <a href="">
+                        <li>Navratna</li>
+                    </a>
+                    <a href="">
+                        <li>Exclusive</li>
+                    </a>
+                    <a href="">
+                        <li>Jewellery</li>
+                    </a>
+                    <a href="">
+                        <li>Birth Stone</li>
+                    </a>
+
+                </div>
+                <div class="customizedCat">
+                    <h4>Customized Jewellery</h4>
+                    <a href="">
+                        <li>Jewellery</li>
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+        <div class="b2cContainer flex" id="b2cContainerId">
+            <div class="b2cContent container flex">
+                <div class="imgDivContainer ">
+                    <img src="Assets/myAssest/b2c.jpg" alt="">
+                </div>
+                <div class="descriptionDivContainer flex">
+                    <p>
+                        As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+                        directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+                        savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+                    </p>
+
+
+                </div>
+            </div>
+
+        </div>
+    </nav>
+    <!-- SideBar for devices smaller then laptop  fa-x -->
+    <div class="sideMain" id="sideBarId">
+        <div class="sideBar flex">
+            <i class="fa-solid fa-arrow-right-long fa-lg" id="cross"></i>
+            <ul class="menusforsmalld flex">
+                <a href="index.html">
+                    <li>Home</li>
+                </a>
+                <a href="AboutUs.html">
+                    <li>About Us</li>
+                </a>
+                <a href="contactUs.html">
+                    <li>Contact Us</li>
+                </a>
+
+                <div class="diamondCSD" id="diamondCSD">
+                    <p>Diamond <i class="fa-solid fa-angle-down"></i></p>
+                    <div class="diamondList" id="diamondList">
+                        <a href="DiamondRing.html">
+                            <p>Rings</p>
+                        </a>
+                        <a href="DiamondEarring.html">
+                            <p>Earrings | Jhumkas</p>
+                        </a>
+                        <a href="DiamondMangalSutra.html">
+                            <p>Mangalsutra</p>
+                        </a>
+                        <a href="DiamondBanglesBracelets.html">
+                            <p>Bangles | Bracelet</p>
+                        </a>
+                        <a href="DiamondPendantSet.html">
+                            <p>Pendant Set</p>
+                        </a>
+                        <a href="DiamondNecklaceHaram.html">
+                            <p>Necklace | Haram</p>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="gemstoneCSD" id="gemstoneCSD">
+                    <p>Gemstone | Pearls <i class="fa-solid fa-angle-down"></i></p>
+                    <div class="gemList" id="gemList">
+                        <a href="Navratan.html">
+                            <p>Navratan</p>
+                        </a>
+                        <a href="GemstomePearls.html">
+                            <p>Jewellery</p>
+                        </a>
+                        <a href="BirthStone.html">
+                            <p>Birth Stone</p>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div class="customizedCSD" id="customizedCSD">
+                    <p>Customized Jewellery <i class="fa-solid fa-angle-down"></i></p>
+                    <div class="customizedList" id="customizedList">
+                        <a href="GoldKundan.html">
+                            <p>Gold | Kundan | Polki</p>
+                        </a>
+                        <a href="CustomizedJewellery.html">
+                            <p>Diamond | Gemstone</p>
+                        </a>
+
+
+                    </div>
+                </div>
+            </ul>
+            <div class="socialMenusforsmalld flex">
+                <!-- <div class="socialDiv flex">
+            <p>Phone </p>
+            <p>|</p>
+            <i class="fa-solid fa-phone fa-sm" id="mobile"></i>
+
+        </div>
+        <div class="socialDiv flex">
+            <p>Mail </p>
+            <p>|</p>
+            <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+
+        </div>
+        <div class="socialDiv flex">
+            <p>Instagram </p>
+            <p>|</p>
+            <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+
+        </div>
+        <div class="socialDiv flex">
+            <p>Whats App </p>
+            <p>|</p>
+            <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+
+        </div> -->
+                <table>
+                    <tr>
+                        <td><a href="tel: +91 8097452090"><i class="fa-solid fa-phone fa-sm" id="mobile"></i></a></td>
+                        <td>|</td>
+                        <td><a href="tel: +91 8097452090">Phone</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="mailto:shrimeenakshidiamonds@gmail.com"><i class="fa-regular fa-envelope fa-lg"
+                                    id="gmail"></i></a></td>
+                        <td>|</td>
+                        <td><a href="mailto:shrimeenakshidiamonds@gmail.com">Mail</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.instagram.com/smd.jewels/"><i class="fa-brands fa-instagram fa-lg"
+                                    id="insta"></i></a></td>
+                        <td>|</td>
+                        <td><a href="https://www.instagram.com/smd.jewels/">Instagram</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://wa.me/918097452090"><i class="fa-brands fa-whatsapp fa-lg"
+                                    id="whatsapp"></a></i></td>
+                        <td>|</td>
+                        <td><a href="https://wa.me/918097452090">Whats App</a></td>
+                    </tr>
+
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- Navbar -->
+
+    <!-- About Us banner start -->
+
+    <div class="aboutUsBanner flex">
+        <div class="overlay"></div>
+        <h1 class="headingAboutUs">
+            About Us
+        </h1>
+    </div>
+
+    <!-- About Us banner end -->
+
+    <!-- about section start -->
+    <div class="aboutXYZMain">
+        <div class="aboutXYZ container flex">
+            <div class="founderMainContainer flex">
+                <div class="imageSection flex">
+                    <img src="DisplayAssests/Owner/20231211131725880-removebg-preview.png" alt="">
+                </div>
+                <div class="detailSection flex">
+                    <h2 class="nameSec">Mr. R.RENUCHAKRADHAR </h2>
+                    <div class="qualificationSec">
+                        <p>( Founder )</p>
+                        <!-- <p>DIPLOMA IN GEMMOLOGY FROM GEMOLOGICAL INSTITUTE OF INDIA (GII)</p>
+                        <p>DIPLOMA IN GRADUATE DIAMONDS FROM GEMOLOGICAL INSTITUTE OF AMERICA (GIA)</p> -->
+                    </div>
+    
+                </div>
+            </div>
+            <div class="aboutusContentContainer  flex primary_color">
+                <!-- <h1 class="aboutusContentContainerHeading">About Us</h1> -->
+                <div class="aboutusContentContainerDescription flex">
+    
+                    <img src="Assets/Logo/logo.png" alt="">
+    
+    
+    
+                    <p>
+                        SHRI MEENAKSHI DIAMONDS & JEWELLERS ( A unit of REVATHI GEMS AND JEWELLERS {Since 1998} ) from being
+                        a
+                        trusted Pearls & Gemstones wholesaler, we are extended our expertise to the resplendent world of
+                        Diamonds jewelry. It's all began when our founder Mr. R.RENUCHAKRADHAR ventured into the diamond
+                        industry with a passion for precious stones. Trained by GIA (Gemological Institute of America) &GII
+                        (Gemological Institute of India ), desire to introduce to world-class diamonds brought life to the
+                        idea
+                        that became known as
+                        SHRI MEENAKSHI DIAMONDS & JEWELLERS (2018). After starting out with wholesale (B2B) operations with
+                        an
+                        extensive distribution network in South India and in Mumbai, we are thrilled to extend our passion
+                        for
+                        diamonds to individual connoisseurs like you (B2C). With years of expertise as a diamond jewelry
+                        supplier, we bring unparalleled quality, precision, and reliability to your personal jewelry
+                        collection.
+                        Explore our exquisite collection and find the perfect diamond to mark your special moments.
+                        SMD Offers You BIS Hallmarked & Certified Diamond Jewelry At Wholesale Price With Lifetime Exchange
+                        and
+                        Buyback. Choose From 10000+ Design and Get A Design Customized, and Make Your Own Masterpiece.
+    
+                    </p>
+    
+                </div>
+    
+            </div>
+        </div>
+    </div>
+    
+
+
+    <!-- about section end -->
+
+
+
+    <!-- dicover our collection start -->
+    <div class="discoverConatinerMain ">
+        <div class="discoverConatiner flex primary_color">
+            <h1>Discover <br>Our Collection</h1>
+        </div>
+
+
+        <!-- Products start -->
+
+        <div class="productSliderContainer ">
+
+            <div class="product-carousel ">
+                <button class="pre-btn" onClick="btnpressprev(pro171)">
+                    <p>&lt;</p>
+                </button>
+                <button class="next-btn" onClick="btnpressnext(pro171)">
+                    <p>&gt;</p>
+                </button>
+
+
+                <div class="product-container" id="pro171">
+
+                    <div class="card">
+                        <img src="DisplayAssests/About us/1.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/2.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/3.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/4.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/5.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/6.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/7.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/8.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/9.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/10.webp" alt="" onclick="show(this.src)">
+                    </div>
+
+
+                    <div class="card">
+                        <img src="DisplayAssests/About us/11.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/12.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/13.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/14.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/15.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/16.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/17.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/18.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/19.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/20.webp" alt="" onclick="show(this.src)">
+                    </div>
+
+                    <div class="card">
+                        <img src="DisplayAssests/About us/21.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/22.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/23.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/24.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/25.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/26.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/27.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/28.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/29.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/30.webp" alt="" onclick="show(this.src)">
+                    </div>
+
+
+                    <div class="card">
+                        <img src="DisplayAssests/About us/31.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/32.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/33.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/34.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/35.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/36.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/37.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/38.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/39.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/40.webp" alt="" onclick="show(this.src)">
+                    </div>
+
+                    <div class="card">
+                        <img src="DisplayAssests/About us/41.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/42.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/43.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/44.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/45.webp" alt="" onclick="show(this.src)">
+                    </div>
+                    <div class="card">
+                        <img src="DisplayAssests/About us/46.webp" alt="" onclick="show(this.src)">
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+        <!-- Products End -->
+    </div>
+    <!-- dicover our collection end -->
+
+
+    <!-- contact us section start -->
+
+    <div class="contactUsSectionMain flex">
+        <div class="layer">
+
+        </div>
+        <div class="contactUsSection flex">
+            <h1>GET IN TOUCH</h1>
+            <p>
+                Experience our exclusive customization service, tailored to bring your dream jewellery to reality. With
+                our team of in-house designers and skilled jewellery stylists, we guarantee the creation of truly
+                individualized pieces that perfectly align with your vision.
+            </p>
+            <a href="contactUs.html">
+                <div class="btnArrow">MAKE AN APPOINTMENT <i class="fa-solid fa-arrow-right-long fa-xl"></i></div>
+            </a>
+        </div>
+
+    </div>
+    <!-- contact us section end -->
+
+
+
+    <!-- Footer start -->
+    <footer>
+        <div class="footerMainContainer flex container">
+            <div class="onefooterMainContainer flex">
+                <a href="index.html" class="flex"><img src="Assets/Logo/logoWhite.png" alt=""></a>
+            </div>
+            <div class="twofooterMainContainer flex">
+                <div class="ToptwofooterMainContainer flex">
+                    <h3>Navigate</h3>
+                    <a href="index.html">
+                        <li>Home</li>
+                    </a>
+                    <a href="AboutUs.html">
+                        <li>About Us</li>
+                    </a>
+                    <a href="contactUs.html">
+                        <li>Contact Us</li>
+                    </a>
+                </div>
+
+            </div>
+            <div class="threefooterMainContainer flex">
+
+                <div class="BottomtwofooterMainContainer flex">
+                    <h3>Chase us on</h3>
+                    <div class="socialIcons flex ">
+                        <!-- <a href="#"><i class="footerIcon fa-solid fa-phone fa-lg" id="mobile"></i></a> -->
+                        <!-- <a href="#"><i class="footerIcon fa-regular fa-envelope fa-lg" id="gmail"></i></a> -->
+                        <a target="_blank" href="https://www.instagram.com/smd.jewels/"><i
+                                class="footerIcon fa-brands fa-instagram fa-lg" id="insta"></i></a>
+                        <a target="_blank" href="https://www.facebook.com/smdjewellers/"><i
+                                class="footerIcon fa-brands fa-facebook-f fa-lg" id="fb"></i></a>
+                        <a target="_blank" href="https://www.youtube.com/"><i
+                                class="footerIcon fa-brands fa-youtube fa-lg" id="youtube"></i></a>
+                        <a target="_blank" href="https://wa.me/918097452090"><i
+                                class="footerIcon fa-brands fa-whatsapp fa-lg" id="whatsapp"></i></a>
+                    </div>
+                </div>
+                <!-- <div class="CollectionNavigate flex">
+                <h3>Our Collections</h3>
+                <a href="#">
+                    <li>Diamonds</li>
+                </a>
+
+                <a href="#">
+                    <li>Gold Jewellery</li>
+                </a>
+                <a href="#">
+                    <li>Gemstone | Pearl</li>
+                </a>
+
+                <a href="#">
+                    <li>Customized Jewellery</li>
+                </a>
+            </div> -->
+            </div>
+            <div class="fourfooterMainContainer flex">
+                <h3>Address</h3>
+                <!-- <p>Salasar Nagar, BLDG No 5/103, Navghar Road, Bhayande, Navghar Rd, Bhayandar, Salasar Nagar, Bhayandar
+                East, Maharashtra 401105</p> -->
+                <a target="_blank" href="https://maps.app.goo.gl/EX2WQWazbPoacefX7">
+                    <p>BLDG No 5/103, Navghar Road, Salasar Nagar, Bhayandar East, Maharashtra 401105.</p>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <div class="subFooterContainer flex">
+        <p>All rights reserved. Powered by the <a href="https://acrosysinfotech.in/" target="_blank">Acrosys
+                Infotech</a></p>
+    </div>
+
+    <!-- Footer end -->
+
+
+
+    <!-- <div class="spacer" style="height: 50vh;"></div> -->
+    <script src="script.js"></script>
+    <script src="uni.js"></script>
+
+</body>
+
+</html>

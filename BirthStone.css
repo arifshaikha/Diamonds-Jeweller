@@ -1,0 +1,13 @@
+.mainBirthStoneContainer{
+    margin-top: 80px;
+}
+
+
+
+
+/* For Tablet */
+@media screen and (width <=890px) {
+    .mainBirthStoneContainer{
+        margin-top: 67px;
+    }
+}

@@ -1,0 +1,152 @@
+[
+  {
+  "_id": {
+    "$oid": "657d5796f8949f331333327d"
+  },
+  "proId": "SMDRN20230004",
+  "GrossWeight": "4.23 + 7.88",
+  "NetWeight": "4 + 7.84",
+  "DiamondWeight": "0.15 + 0.2",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 145000,
+  "colorStone": 0,
+  "wSalePrice": 92220,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230004.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230004.1.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230004.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f331333327e"
+  },
+  "proId": "SMDRN20230008",
+  "GrossWeight": "4.85 + 4.85",
+  "NetWeight": "3.9 + 3.9",
+  "DiamondWeight": "0.25 + 0.25",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 100000,
+  "colorStone": 37575,
+  "colorStoneDes": "4.5ct  zambian",
+  "wSalePrice": 106364,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230008.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f331333327f"
+  },
+  "proId": "SMDRN20230023",
+  "GrossWeight": "2.5 + 10.5",
+  "NetWeight": "2.33 + 10.48",
+  "DiamondWeight": "0.85 + 0.12",
+  "MakingCharges": 2000,
+  "Karat": "Platinum",
+  "DiamondRate": 296940,
+  "colorStone": 0,
+  "wSalePrice": 263682,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230023.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230023.1.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230023.2.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230023.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333280"
+  },
+  "proId": "SMDRN20230025",
+  "GrossWeight": "4.8 + 11.25",
+  "NetWeight": "4.77 + 11.21",
+  "DiamondWeight": "0.15 + 0.2",
+  "MakingCharges": 2000,
+  "Karat": "Platinum",
+  "DiamondRate": 145000,
+  "colorStone": 0,
+  "wSalePrice": 94464,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230025.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230025.1.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230025.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333281"
+  },
+  "proId": "SMDRN20230026",
+  "GrossWeight": "3.7 + 3.43",
+  "NetWeight": "3.64 + 3.34",
+  "DiamondWeight": "0.29 + 0.46",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 100000,
+  "colorStone": 0,
+  "wSalePrice": 76686,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230026.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230026.1.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230026.2.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230026.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333282"
+  },
+  "proId": "SMDRN20230027",
+  "GrossWeight": "3.15 + 3.22",
+  "NetWeight": "2.79 + 2.86",
+  "DiamondWeight": "0.31 + 0.32",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 100000,
+  "colorStone": 1000,
+  "wSalePrice": 64219,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230027.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230027.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333283"
+  },
+  "proId": "SMDRN20230033",
+  "GrossWeight": "2.79 + 3.54",
+  "NetWeight": "2.71 + 3.5",
+  "DiamondWeight": "0.39 + 0.18",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 100000,
+  "colorStone": 0,
+  "wSalePrice": 63363,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230033.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230033.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333284"
+  },
+  "proId": "SMDRN20230034",
+  "GrossWeight": "4.27 + 3.39",
+  "NetWeight": "4.19 + 3.33",
+  "DiamondWeight": "0.4 + 0.29",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 108448,
+  "colorStone": 0,
+  "wSalePrice": 79717,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230034.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230034.1.webp"
+  ]
+}
+]

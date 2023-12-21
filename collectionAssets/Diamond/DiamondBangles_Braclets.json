@@ -1,0 +1,289 @@
+[
+  {
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffb9"
+  },
+  "proId": "SMDBC20230001",
+  "GrossWeight": 13.61,
+  "NetWeight": 13.45,
+  "DiamondWeight": 0.81,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230001.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffba"
+  },
+  "proId": "SMDBC20230002",
+  "GrossWeight": 11.42,
+  "NetWeight": 11.35,
+  "DiamondWeight": 0.35,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230002.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230002.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffbb"
+  },
+  "proId": "SMDBC20230003",
+  "GrossWeight": 11.78,
+  "NetWeight": 11.6,
+  "DiamondWeight": 0.92,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230003.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230003.1.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230003.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffbc"
+  },
+  "proId": "SMDBC20230004",
+  "GrossWeight": 7.15,
+  "NetWeight": 7.07,
+  "DiamondWeight": 0.4,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230004.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230004.1.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230004.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffbd"
+  },
+  "proId": "SMDBC20230005",
+  "GrossWeight": 13.78,
+  "NetWeight": 13.54,
+  "DiamondWeight": 1.2,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230005.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffbe"
+  },
+  "proId": "SMDBN20230001",
+  "GrossWeight": 48.56,
+  "NetWeight": 41.6,
+  "DiamondWeight": 4.8,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230001.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230001.1.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230001.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffbf"
+  },
+  "proId": "SMDBN20230002",
+  "GrossWeight": 56.44,
+  "NetWeight": 54.41,
+  "DiamondWeight": 10.14,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230002.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230002.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc0"
+  },
+  "proId": "SMDBN20230003",
+  "GrossWeight": 29.92,
+  "NetWeight": 29.29,
+  "DiamondWeight": 3.17,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230003.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230003.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc1"
+  },
+  "proId": "SMDBN20230004",
+  "GrossWeight": 55.28,
+  "NetWeight": 52.16,
+  "DiamondWeight": 15.6,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 65000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230004.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230004.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc2"
+  },
+  "proId": "SMDBN20230005",
+  "GrossWeight": 28.63,
+  "NetWeight": 28.19,
+  "DiamondWeight": 2.21,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230005.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230005.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc3"
+  },
+  "proId": "SMDBN20230006",
+  "GrossWeight": 31.11,
+  "NetWeight": 30.74,
+  "DiamondWeight": 1.8,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230006.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230006.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc4"
+  },
+  "proId": "SMDBN20230007",
+  "GrossWeight": 47.88,
+  "NetWeight": 45,
+  "DiamondWeight": 14.4,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230007.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230007.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc5"
+  },
+  "proId": "SMDBN20230008",
+  "GrossWeight": 63.12,
+  "NetWeight": 61.33,
+  "DiamondWeight": 8.96,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230008.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230008.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc6"
+  },
+  "proId": "SMDBN20230009",
+  "GrossWeight": 32.68,
+  "NetWeight": 32.08,
+  "DiamondWeight": 3.04,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230009.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230009.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc7"
+  },
+  "proId": "SMDBN20230010",
+  "GrossWeight": 52.47,
+  "NetWeight": 52.04,
+  "DiamondWeight": 2.16,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230010.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230010.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc8"
+  },
+  "proId": "SMDBN20230011",
+  "GrossWeight": 34.21,
+  "NetWeight": 32.53,
+  "DiamondWeight": 8.41,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230011.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576c439f18962cb2a23ffc9"
+  },
+  "proId": "SMDBN20230012",
+  "GrossWeight": 32.47,
+  "NetWeight": 31.34,
+  "DiamondWeight": 5.45,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBN20230012.webp"
+  ]
+}]

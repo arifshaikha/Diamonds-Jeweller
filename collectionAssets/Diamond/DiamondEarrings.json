@@ -1,0 +1,1047 @@
+[{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecf5"
+  },
+  "proId": "SMDER2023001",
+  "GrossWeight": 12,
+  "NetWeight": 11.5,
+  "DiamondWeight": 0.3,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder2023001.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecf6"
+  },
+  "proId": "SMDER2023002",
+  "GrossWeight": 2.5,
+  "NetWeight": 2.45,
+  "DiamondWeight": 0.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder2023002.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecf7"
+  },
+  "proId": "SMDER2023003",
+  "GrossWeight": 3.5,
+  "NetWeight": 3.43,
+  "DiamondWeight": 0.35,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder2023003.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecf8"
+  },
+  "proId": "SMDER2023004",
+  "GrossWeight": 2.5,
+  "NetWeight": 2.46,
+  "DiamondWeight": 0.2,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder2023004.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecf9"
+  },
+  "proId": "SMDER2023005",
+  "GrossWeight": 2.75,
+  "NetWeight": 2.7,
+  "DiamondWeight": 0.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder2023005.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecfa"
+  },
+  "proId": "SMDER2023006",
+  "GrossWeight": 3.75,
+  "NetWeight": 3.67,
+  "DiamondWeight": 0.4,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder2023006.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecfb"
+  },
+  "proId": "SMDER2023007",
+  "GrossWeight": 3.75,
+  "NetWeight": 3.8,
+  "DiamondWeight": 0.35,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder2023007.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecfc"
+  },
+  "proId": "SMDER2023008",
+  "GrossWeight": 4.2,
+  "NetWeight": 4.1,
+  "DiamondWeight": 0.45,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder2023008.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecfd"
+  },
+  "proId": "SMDER2023009",
+  "GrossWeight": 4.5,
+  "NetWeight": 3.8,
+  "DiamondWeight": 0.3,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1500,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder2023009.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecfe"
+  },
+  "proId": "SMDER2023010",
+  "GrossWeight": 4.75,
+  "NetWeight": 4.25,
+  "DiamondWeight": 0.5,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1500,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230010.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ecff"
+  },
+  "proId": "SMDER2023011",
+  "GrossWeight": 4.5,
+  "NetWeight": 4.37,
+  "DiamondWeight": 0.65,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230011.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed00"
+  },
+  "proId": "SMDER2023012",
+  "GrossWeight": 3,
+  "NetWeight": 2.93,
+  "DiamondWeight": 0.35,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230012.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed01"
+  },
+  "proId": "SMDER2023013",
+  "GrossWeight": 9,
+  "NetWeight": 8.36,
+  "DiamondWeight": 1.2,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1500,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230013.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed02"
+  },
+  "proId": "SMDER2023014",
+  "GrossWeight": 28,
+  "NetWeight": 24,
+  "DiamondWeight": 4.11,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230014.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed03"
+  },
+  "proId": "SMDER2023015",
+  "GrossWeight": 5,
+  "NetWeight": 4.9,
+  "DiamondWeight": 0.5,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230015.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed04"
+  },
+  "proId": "SMDER2023016",
+  "GrossWeight": 4.25,
+  "NetWeight": 4.18,
+  "DiamondWeight": 0.36,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230016.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed05"
+  },
+  "proId": "SMDER2023017",
+  "GrossWeight": 3,
+  "NetWeight": 2.95,
+  "DiamondWeight": 0.27,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230017.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed06"
+  },
+  "proId": "SMDER2023018",
+  "GrossWeight": 3.25,
+  "NetWeight": 3.2,
+  "DiamondWeight": 0.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230018.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed07"
+  },
+  "proId": "SMDER2023019",
+  "GrossWeight": 6.5,
+  "NetWeight": 6.4,
+  "DiamondWeight": 0.52,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230019.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed08"
+  },
+  "proId": "SMDER2023020",
+  "GrossWeight": 4.5,
+  "NetWeight": 4.38,
+  "DiamondWeight": 0.61,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230020.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed09"
+  },
+  "proId": "SMDER2023021",
+  "GrossWeight": 3.55,
+  "NetWeight": 3.48,
+  "DiamondWeight": 0.35,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230021.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed0a"
+  },
+  "proId": "SMDER2023022",
+  "GrossWeight": 3.25,
+  "NetWeight": 3.2,
+  "DiamondWeight": 0.15,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230022.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed0b"
+  },
+  "proId": "SMDER2023023",
+  "GrossWeight": 4.6,
+  "NetWeight": 4.15,
+  "DiamondWeight": 0.36,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230023.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed0c"
+  },
+  "proId": "SMDER2023024",
+  "GrossWeight": 2.95,
+  "NetWeight": 2.89,
+  "DiamondWeight": 0.32,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230024.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed0d"
+  },
+  "proId": "SMDER2023025",
+  "GrossWeight": 2.25,
+  "NetWeight": 2.19,
+  "DiamondWeight": 0.3,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230025.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed0e"
+  },
+  "proId": "SMDER2023026",
+  "GrossWeight": 4.5,
+  "NetWeight": 4.38,
+  "DiamondWeight": 0.6,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230026.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed0f"
+  },
+  "proId": "SMDER2023027",
+  "GrossWeight": 8.12,
+  "NetWeight": 7.76,
+  "DiamondWeight": 1.81,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230027.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed10"
+  },
+  "proId": "SMDER2023028",
+  "GrossWeight": 0.75,
+  "NetWeight": 0.67,
+  "DiamondWeight": 0.4,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 80000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230028.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed11"
+  },
+  "proId": "SMDER2023029",
+  "GrossWeight": 2.76,
+  "NetWeight": 2.69,
+  "DiamondWeight": 0.36,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230029.webp",
+    "collectionAssets/Diamond/Earrings/smder20230029.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed12"
+  },
+  "proId": "SMDER2023030",
+  "GrossWeight": 22,
+  "NetWeight": 21.24,
+  "DiamondWeight": 3.8,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230030.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed13"
+  },
+  "proId": "SMDER2023031",
+  "GrossWeight": 4.45,
+  "NetWeight": 4.32,
+  "DiamondWeight": 0.65,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 71538,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230031.webp",
+    "collectionAssets/Diamond/Earrings/smder20230031.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed14"
+  },
+  "proId": "SMDER2023032",
+  "GrossWeight": 5.9,
+  "NetWeight": 5.59,
+  "DiamondWeight": 0.8,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230032.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed15"
+  },
+  "proId": "SMDER2023033",
+  "GrossWeight": 4.25,
+  "NetWeight": 4.16,
+  "DiamondWeight": 0.47,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230033.webp",
+    "collectionAssets/Diamond/Earrings/smder20230033.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed16"
+  },
+  "proId": "SMDER2023034",
+  "GrossWeight": 3.75,
+  "NetWeight": 3.7,
+  "DiamondWeight": 0.27,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230034.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed17"
+  },
+  "proId": "SMDER2023035",
+  "GrossWeight": 4.7,
+  "NetWeight": 4.5,
+  "DiamondWeight": 1.1,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230035.webp",
+    "collectionAssets/Diamond/Earrings/smder20230035.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed18"
+  },
+  "proId": "SMDER2023036",
+  "GrossWeight": 5.65,
+  "NetWeight": 5.04,
+  "DiamondWeight": 0.8,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1500,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230036.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed19"
+  },
+  "proId": "SMDER2023037",
+  "GrossWeight": 3.65,
+  "NetWeight": 3.59,
+  "DiamondWeight": 0.37,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230037.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed1a"
+  },
+  "proId": "SMDER2023038",
+  "GrossWeight": 30,
+  "NetWeight": 22,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230038.webp",
+    "collectionAssets/Diamond/Earrings/smder20230038.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed1b"
+  },
+  "proId": "SMDER2023039",
+  "GrossWeight": 36,
+  "NetWeight": 32.13,
+  "DiamondWeight": 4.7,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230039.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed1c"
+  },
+  "proId": "SMDER2023040",
+  "GrossWeight": 39,
+  "NetWeight": 34,
+  "DiamondWeight": 4.85,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230040.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed1d"
+  },
+  "proId": "SMDER2023041",
+  "GrossWeight": 3.64,
+  "NetWeight": 3,
+  "DiamondWeight": 0.22,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230041.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed1e"
+  },
+  "proId": "SMDER2023042",
+  "GrossWeight": 13,
+  "NetWeight": 9.87,
+  "DiamondWeight": 0.65,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 3000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230042.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed1f"
+  },
+  "proId": "SMDER2023043",
+  "GrossWeight": 18,
+  "NetWeight": 12,
+  "DiamondWeight": 0.9,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 6000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230043.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed20"
+  },
+  "proId": "SMDER2023044",
+  "GrossWeight": 3.85,
+  "NetWeight": 3.78,
+  "DiamondWeight": 0.35,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230044.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed21"
+  },
+  "proId": "SMDER2023045",
+  "GrossWeight": 7,
+  "NetWeight": 6.8,
+  "DiamondWeight": 1,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 3000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230045.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed22"
+  },
+  "proId": "SMDER2023046",
+  "GrossWeight": 2.62,
+  "NetWeight": 2.56,
+  "DiamondWeight": 0.3,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230046.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed23"
+  },
+  "proId": "SMDER2023047",
+  "GrossWeight": 37.2,
+  "NetWeight": 28.4,
+  "DiamondWeight": 4.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 10000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230047.webp",
+    "collectionAssets/Diamond/Earrings/smder20230047.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed24"
+  },
+  "proId": "SMDER2023048",
+  "GrossWeight": 5.75,
+  "NetWeight": 4.6,
+  "DiamondWeight": 0.7,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 2000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230048.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed25"
+  },
+  "proId": "SMDER2023049",
+  "GrossWeight": 2.25,
+  "NetWeight": 2.2,
+  "DiamondWeight": 0.24,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230049.webp",
+    "collectionAssets/Diamond/Earrings/smder20230049.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed26"
+  },
+  "proId": "SMDER2023050",
+  "GrossWeight": 3.75,
+  "NetWeight": 3.67,
+  "DiamondWeight": 0.42,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230050.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed27"
+  },
+  "proId": "SMDER2023051",
+  "GrossWeight": 4.25,
+  "NetWeight": 4.11,
+  "DiamondWeight": 0.72,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230051.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed28"
+  },
+  "proId": "SMDER2023052",
+  "GrossWeight": 7.1,
+  "NetWeight": 5.7,
+  "DiamondWeight": 0.5,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 56000,
+  "colorStone": 2000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230052.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed29"
+  },
+  "proId": "SMDER2023053",
+  "GrossWeight": 3.75,
+  "NetWeight": 3.68,
+  "DiamondWeight": 0.35,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230053.webp",
+    "collectionAssets/Diamond/Earrings/smder20230053.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed2a"
+  },
+  "proId": "SMDER2023054",
+  "GrossWeight": 5.2,
+  "NetWeight": 4.65,
+  "DiamondWeight": 0.64,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230054.webp",
+    "collectionAssets/Diamond/Earrings/smder20230054.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed2b"
+  },
+  "proId": "SMDER2023055",
+  "GrossWeight": 2.5,
+  "NetWeight": 2.44,
+  "DiamondWeight": 0.3,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230055.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed2c"
+  },
+  "proId": "SMDER2023056",
+  "GrossWeight": 5.7,
+  "NetWeight": 4.6,
+  "DiamondWeight": 0.55,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 2000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230056.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed2d"
+  },
+  "proId": "SMDER2023057",
+  "GrossWeight": 13,
+  "NetWeight": 10.5,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230057.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed2e"
+  },
+  "proId": "SMDER2023058",
+  "GrossWeight": 6,
+  "NetWeight": 5.8,
+  "DiamondWeight": 1.03,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230058.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed2f"
+  },
+  "proId": "SMDER2023059",
+  "GrossWeight": 2.68,
+  "NetWeight": 2.64,
+  "DiamondWeight": 0.18,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230059.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed30"
+  },
+  "proId": "SMDER2023060",
+  "GrossWeight": 3.66,
+  "NetWeight": 3.6,
+  "DiamondWeight": 0.28,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230060.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed31"
+  },
+  "proId": "SMDER2023061",
+  "GrossWeight": 2.75,
+  "NetWeight": 2.71,
+  "DiamondWeight": 0.2,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230061.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed32"
+  },
+  "proId": "SMDER2023062",
+  "GrossWeight": 2.25,
+  "NetWeight": 2.2,
+  "DiamondWeight": 0.15,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230062.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed33"
+  },
+  "proId": "SMDER2023063",
+  "GrossWeight": 2.54,
+  "NetWeight": 2.5,
+  "DiamondWeight": 0.2,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230063.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed34"
+  },
+  "proId": "SMDER2023064",
+  "GrossWeight": 2.81,
+  "NetWeight": 2.76,
+  "DiamondWeight": 0.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230064.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6572ff8ab61cce0f2956ed35"
+  },
+  "proId": "SMDER2023065",
+  "GrossWeight": 3.68,
+  "NetWeight": 3.57,
+  "DiamondWeight": 0.55,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230065.webp"
+  ]
+}]

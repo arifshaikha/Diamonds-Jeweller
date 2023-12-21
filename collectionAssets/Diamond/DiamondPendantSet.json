@@ -1,0 +1,549 @@
+[
+  {
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784c4"
+  },
+  "proId": "SMDPN20230001",
+  "GrossWeight": 4.44,
+  "NetWeight": 4.38,
+  "DiamondWeight": 0.3,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230001.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784c5"
+  },
+  "proId": "SMDPN20230002",
+  "GrossWeight": 21.32,
+  "NetWeight": 17.82,
+  "DiamondWeight": 3.54,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5850,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230002.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784c6"
+  },
+  "proId": "SMDPN20230003",
+  "GrossWeight": 19.29,
+  "NetWeight": 18.64,
+  "DiamondWeight": 2.14,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230003.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784c7"
+  },
+  "proId": "SMDPN20230004",
+  "GrossWeight": 6.78,
+  "NetWeight": 6.55,
+  "DiamondWeight": 1.14,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230004.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784c8"
+  },
+  "proId": "SMDPN20230005",
+  "GrossWeight": 14.63,
+  "NetWeight": 12.78,
+  "DiamondWeight": 0.54,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 7000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230005.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784c9"
+  },
+  "proId": "SMDPN20230006",
+  "GrossWeight": 10.63,
+  "NetWeight": 10.38,
+  "DiamondWeight": 1.27,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230006.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784ca"
+  },
+  "proId": "SMDPN20230007",
+  "GrossWeight": 5.45,
+  "NetWeight": 5.33,
+  "DiamondWeight": 0.56,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230007.webp",
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230007.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784cb"
+  },
+  "proId": "SMDPN20230008",
+  "GrossWeight": 11.29,
+  "NetWeight": 10.8,
+  "DiamondWeight": 1.89,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 500,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230008.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784cc"
+  },
+  "proId": "SMDPN20230009",
+  "GrossWeight": 8.62,
+  "NetWeight": 7.275,
+  "DiamondWeight": 1.18,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 2000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230009.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784cd"
+  },
+  "proId": "SMDPN20230010",
+  "GrossWeight": 5.55,
+  "NetWeight": 5.418,
+  "DiamondWeight": 0.66,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230010.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784ce"
+  },
+  "proId": "SMDPN20230011",
+  "GrossWeight": 34.11,
+  "NetWeight": 25.022,
+  "DiamondWeight": 4.34,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230011.webp",
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230011.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784cf"
+  },
+  "proId": "SMDPN20230012",
+  "GrossWeight": 14.07,
+  "NetWeight": 12.08,
+  "DiamondWeight": 1.64,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 4000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230012.webp",
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230012.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d0"
+  },
+  "proId": "SMDPN20230013",
+  "GrossWeight": 21.47,
+  "NetWeight": 14.28,
+  "DiamondWeight": 1.85,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 11000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230013.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d1"
+  },
+  "proId": "SMDPN20230014",
+  "GrossWeight": 6.88,
+  "NetWeight": 6.7,
+  "DiamondWeight": 0.9,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230014.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d2"
+  },
+  "proId": "SMDPN20230015",
+  "GrossWeight": 24.13,
+  "NetWeight": 18.97,
+  "DiamondWeight": 3.63,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 4000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230015.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d3"
+  },
+  "proId": "SMDPN20230016",
+  "GrossWeight": 10.47,
+  "NetWeight": 10.326,
+  "DiamondWeight": 0.72,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230016.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d4"
+  },
+  "proId": "SMDPN20230017",
+  "GrossWeight": 15.79,
+  "NetWeight": 14.82,
+  "DiamondWeight": 2.64,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230017.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d5"
+  },
+  "proId": "SMDPN20230018",
+  "GrossWeight": 23.55,
+  "NetWeight": 22.25,
+  "DiamondWeight": 2.74,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 4000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230018.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d6"
+  },
+  "proId": "SMDPN20230019",
+  "GrossWeight": 5.65,
+  "NetWeight": 5.52,
+  "DiamondWeight": 0.64,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230019.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d7"
+  },
+  "proId": "SMDPN20230020",
+  "GrossWeight": 7.83,
+  "NetWeight": 7.64,
+  "DiamondWeight": 0.94,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230020.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d8"
+  },
+  "proId": "SMDPN20230021",
+  "GrossWeight": 21.78,
+  "NetWeight": 21.01,
+  "DiamondWeight": 3.83,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230021.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784d9"
+  },
+  "proId": "SMDPN20230022",
+  "GrossWeight": 20.88,
+  "NetWeight": 20.06,
+  "DiamondWeight": 4.06,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230022.webp",
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230022.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784da"
+  },
+  "proId": "SMDPN20230023",
+  "GrossWeight": 11.45,
+  "NetWeight": 10.67,
+  "DiamondWeight": 1.45,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1500,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230023.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784db"
+  },
+  "proId": "SMDPN20230024",
+  "GrossWeight": 9.07,
+  "NetWeight": 8.71,
+  "DiamondWeight": 1.84,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230024.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784dc"
+  },
+  "proId": "SMDPN20230025",
+  "GrossWeight": 16.44,
+  "NetWeight": 13.84,
+  "DiamondWeight": 2.12,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230025.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784dd"
+  },
+  "proId": "SMDPN20230026",
+  "GrossWeight": 10.68,
+  "NetWeight": 10.53,
+  "DiamondWeight": 0.75,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230026.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784de"
+  },
+  "proId": "SMDPN20230027",
+  "GrossWeight": 12.15,
+  "NetWeight": 11.25,
+  "DiamondWeight": 2.24,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230027.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784df"
+  },
+  "proId": "SMDPN20230028",
+  "GrossWeight": 28.95,
+  "NetWeight": 26.72,
+  "DiamondWeight": 3.19,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 2000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230028.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784e0"
+  },
+  "proId": "SMDPN20230029",
+  "GrossWeight": 15.12,
+  "NetWeight": 12.01,
+  "DiamondWeight": 2.22,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 7000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230029.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784e1"
+  },
+  "proId": "SMDPN20230030",
+  "GrossWeight": 14.27,
+  "NetWeight": 11.93,
+  "DiamondWeight": 2.1,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 2000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230030.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784e2"
+  },
+  "proId": "SMDPN20230031",
+  "GrossWeight": 36.57,
+  "NetWeight": 28.57,
+  "DiamondWeight": 4.54,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 10000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230031.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784e3"
+  },
+  "proId": "SMDGD20230023",
+  "GrossWeight": 29.3,
+  "NetWeight": 25.72,
+  "DiamondWeight": 0.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 3000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDGD20230023.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784e4"
+  },
+  "proId": "SMDGD20230024",
+  "GrossWeight": 35.78,
+  "NetWeight": 35.1,
+  "DiamondWeight": 0.1,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPGD20230024.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6575c1901e5ec6d0853784e5"
+  },
+  "proId": "SMDGD20230025",
+  "GrossWeight": 22.89,
+  "NetWeight": 21.78,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPGD20230025.webp"
+  ]
+}]

@@ -1,0 +1,416 @@
+[
+  {
+  "_id": {
+    "$oid": "65781eaeb267f61738739a08"
+  },
+  "proId": "SMDGD20230001",
+  "GrossWeight": 56.49,
+  "NetWeight": 54.53,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 4000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230001.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230001.1.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230001.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a09"
+  },
+  "proId": "SMDGD20230002",
+  "GrossWeight": 15.58,
+  "NetWeight": 12.79,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230002.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a0a"
+  },
+  "proId": "SMDGD20230003",
+  "GrossWeight": 21.32,
+  "NetWeight": 17.82,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 5850,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230003.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a0b"
+  },
+  "proId": "SMDGD20230004",
+  "GrossWeight": 22.43,
+  "NetWeight": 22.11,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230004.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230004.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a0c"
+  },
+  "proId": "SMDGD20230005",
+  "GrossWeight": 54.78,
+  "NetWeight": 54.42,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230005.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230005.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a0d"
+  },
+  "proId": "SMDGD20230006",
+  "GrossWeight": 55.75,
+  "NetWeight": 55.75,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230006.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230006.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a0e"
+  },
+  "proId": "SMDGD20230007",
+  "GrossWeight": 20.18,
+  "NetWeight": 20.18,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230007.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230007.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a0f"
+  },
+  "proId": "SMDGD20230008",
+  "GrossWeight": 25.75,
+  "NetWeight": 22.46,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDKNP20230008.webp",
+    "collectionAssets/Gold_Kundan/SMDKNP20230008.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a10"
+  },
+  "proId": "SMDGD20230009",
+  "GrossWeight": 47.88,
+  "NetWeight": 47.88,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230009.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230009.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a11"
+  },
+  "proId": "SMDGD20230010",
+  "GrossWeight": 61.24,
+  "NetWeight": 61.24,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230010.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a12"
+  },
+  "proId": "SMDGD20230011",
+  "GrossWeight": 88.78,
+  "NetWeight": 88.78,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230011.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230011.1.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230011.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a13"
+  },
+  "proId": "SMDGD20230012",
+  "GrossWeight": 72.65,
+  "NetWeight": 72.65,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230012.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230012.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a14"
+  },
+  "proId": "SMDGD20230013",
+  "GrossWeight": 51.42,
+  "NetWeight": 46.32,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 15000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230013.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230013.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a15"
+  },
+  "proId": "SMDGD20230014",
+  "GrossWeight": 24.88,
+  "NetWeight": 23.18,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 11000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230014.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230014.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a16"
+  },
+  "proId": "SMDGD20230015",
+  "GrossWeight": 32.78,
+  "NetWeight": 30.55,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230015.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230015.1.webp",
+    "collectionAssets/Gold_Kundan/SMDGD20230015.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a17"
+  },
+  "proId": "SMDGD20230016",
+  "GrossWeight": 29.76,
+  "NetWeight": 25.44,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 12000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230016.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a18"
+  },
+  "proId": "SMDGD20230017",
+  "GrossWeight": 18.57,
+  "NetWeight": 15.66,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 4000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230017.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a19"
+  },
+  "proId": "SMDGD20230018",
+  "GrossWeight": 41.52,
+  "NetWeight": 38.78,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 25000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230018.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a1a"
+  },
+  "proId": "SMDGD20230019",
+  "GrossWeight": 90.45,
+  "NetWeight": 85.33,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230019.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a1b"
+  },
+  "proId": "SMDKNP20230020",
+  "GrossWeight": 97.94,
+  "NetWeight": 72.54,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 60000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDKNP20230020.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a1c"
+  },
+  "proId": "SMDKNP20230021",
+  "GrossWeight": 55.75,
+  "NetWeight": 55.75,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 0,
+  "colorStone": 25000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDGD20230021.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a1d"
+  },
+  "proId": "SMDKNP20230022",
+  "GrossWeight": 64.7,
+  "NetWeight": 64,
+  "DiamondWeight": 2.12,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDKNP20230022.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a1e"
+  },
+  "proId": "SMDPGD20230023",
+  "GrossWeight": 29.3,
+  "NetWeight": 25.72,
+  "DiamondWeight": 0.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 3000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDPGD20230023.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a1f"
+  },
+  "proId": "SMDPGD20230024",
+  "GrossWeight": 35.78,
+  "NetWeight": 35.1,
+  "DiamondWeight": 0.1,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDPGD20230024.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65781eaeb267f61738739a20"
+  },
+  "proId": "SMDPGD20230025",
+  "GrossWeight": 22.89,
+  "NetWeight": 21.78,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Gold_Kundan/SMDPGD20230025.webp"
+  ]
+}]

@@ -1,0 +1,218 @@
+[
+  {
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03f6"
+  },
+  "proId": "SMDBC20230001",
+  "GrossWeight": 13.61,
+  "NetWeight": 13.45,
+  "DiamondWeight": 0.81,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230001.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03f7"
+  },
+  "proId": "SMDBC20230003",
+  "GrossWeight": 11.78,
+  "NetWeight": 11.6,
+  "DiamondWeight": 0.92,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230003.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230003.1.webp",
+    "collectionAssets/Diamond/Bangles and Braclets/SMDBC20230003.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03f8"
+  },
+  "proId": "SMDER2023039",
+  "GrossWeight": 36,
+  "NetWeight": 32.13,
+  "DiamondWeight": 4.7,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230039.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03f9"
+  },
+  "proId": "SMDER2023040",
+  "GrossWeight": 39,
+  "NetWeight": 34,
+  "DiamondWeight": 4.85,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230040.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03fa"
+  },
+  "proId": "SMDER2023047",
+  "GrossWeight": 37.2,
+  "NetWeight": 28.4,
+  "DiamondWeight": 4.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 10000,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230047.webp",
+    "collectionAssets/Diamond/Earrings/smder20230047.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03fb"
+  },
+  "proId": "SMDER2023066",
+  "GrossWeight": 41.56,
+  "NetWeight": 38.41,
+  "DiamondWeight": 4.72,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 7500,
+  "images": [
+    "collectionAssets/Diamond/Earrings/smder20230066.webp",
+    "collectionAssets/Diamond/Earrings/smder20230066.1.webp",
+    "collectionAssets/Diamond/Earrings/smder20230066.2.webp",
+    "collectionAssets/Diamond/Earrings/smder20230066.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03fc"
+  },
+  "proId": "SMDGEM20230004",
+  "GrossWeight": 174.46,
+  "NetWeight": 141.89,
+  "DiamondWeight": 12.43,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 134000,
+  "images": [
+    "collectionAssets/Customized Jewellery/SMDGEM20230004.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03fd"
+  },
+  "proId": "SMDGEM20230006",
+  "GrossWeight": 10.15,
+  "NetWeight": 9.64,
+  "DiamondWeight": 0.3,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 7875,
+  "colorStoneDes": "2.5ct zambian 3.5k",
+  "images": [
+    "collectionAssets/Customized Jewellery/SMDGEM20230006.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03fe"
+  },
+  "proId": "SMDGEM20230008",
+  "GrossWeight": 20.93,
+  "NetWeight": 11.79,
+  "DiamondWeight": 1.87,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 35000,
+  "images": [
+    "collectionAssets/Customized Jewellery/SMDGEM20230008.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c03ff"
+  },
+  "proId": "SMDGEM20230009",
+  "GrossWeight": 36.88,
+  "NetWeight": 36.88,
+  "DiamondWeight": 0,
+  "MakingCharges": 0,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 45000,
+  "images": [
+    "collectionAssets/Customized Jewellery/SMDGEM20230009.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c0400"
+  },
+  "proId": "SMDGEM20230010",
+  "GrossWeight": 8.88,
+  "NetWeight": 7.98,
+  "DiamondWeight": 0,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 24300,
+  "colorStoneDes": "4.5 cts bangkok ",
+  "images": [
+    "collectionAssets/Customized Jewellery/SMDGEM20230010.webp",
+    "collectionAssets/Customized Jewellery/SMDGEM20230010.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c0401"
+  },
+  "proId": "SMDHR20230003",
+  "GrossWeight": 172.77,
+  "NetWeight": 144.92,
+  "DiamondWeight": 22.45,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 45000,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDHR20230003.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65784f77a4b2c605342c0402"
+  },
+  "proId": "SMDPN20230005",
+  "GrossWeight": 14.63,
+  "NetWeight": 12.78,
+  "DiamondWeight": 0.54,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 7000,
+  "images": [
+    "collectionAssets/Diamond/Pendant Set/SMDPN20230005.webp"
+  ]
+}]

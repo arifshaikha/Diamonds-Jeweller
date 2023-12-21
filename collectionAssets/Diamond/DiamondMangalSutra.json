@@ -1,0 +1,378 @@
+[
+  {
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4bb"
+  },
+  "proId": "SMDMG20230001",
+  "GrossWeight": 13,
+  "NetWeight": 12.68,
+  "DiamondWeight": 1.61,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230001.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4bc"
+  },
+  "proId": "SMDMG20230002",
+  "GrossWeight": 5.45,
+  "NetWeight": 5.32,
+  "DiamondWeight": 0.62,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230002.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4bd"
+  },
+  "proId": "SMDMG20230003",
+  "GrossWeight": 6.48,
+  "NetWeight": 6.36,
+  "DiamondWeight": 0.61,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230003.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4be"
+  },
+  "proId": "SMDMG20230004",
+  "GrossWeight": 5.15,
+  "NetWeight": 4.94,
+  "DiamondWeight": 1.11,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230004.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4bf"
+  },
+  "proId": "SMDMG20230005",
+  "GrossWeight": 18.3,
+  "NetWeight": 17.55,
+  "DiamondWeight": 3.75,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230005.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c0"
+  },
+  "proId": "SMDMG20230006",
+  "GrossWeight": 6.2,
+  "NetWeight": 5.44,
+  "DiamondWeight": 0.8,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 1000,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230006.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c1"
+  },
+  "proId": "SMDMG20230007",
+  "GrossWeight": 4.8,
+  "NetWeight": 4.63,
+  "DiamondWeight": 0.83,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230007.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c2"
+  },
+  "proId": "SMDMG20230008",
+  "GrossWeight": 20.58,
+  "NetWeight": 11.29,
+  "DiamondWeight": 1.6,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 5000,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230008.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c3"
+  },
+  "proId": "SMDMG20230009",
+  "GrossWeight": 9.03,
+  "NetWeight": 8.83,
+  "DiamondWeight": 0.98,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230009.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c4"
+  },
+  "proId": "SMDMG20230010",
+  "GrossWeight": 37.68,
+  "NetWeight": 35.21,
+  "MakingCharges": 750,
+  "Karat": "22kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230010.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c5"
+  },
+  "proId": "SMDMG20230011",
+  "GrossWeight": 5.23,
+  "NetWeight": 5.05,
+  "DiamondWeight": 0.92,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230011.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c6"
+  },
+  "proId": "SMDMG20230012",
+  "GrossWeight": 22.46,
+  "NetWeight": 21.39,
+  "DiamondWeight": 5.36,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230012.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c7"
+  },
+  "proId": "SMDMG20230013",
+  "GrossWeight": 6.23,
+  "NetWeight": 6.11,
+  "DiamondWeight": 0.61,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230013.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c8"
+  },
+  "proId": "SMDMG20230014",
+  "GrossWeight": 18,
+  "NetWeight": 17.29,
+  "DiamondWeight": 3.56,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230014.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4c9"
+  },
+  "proId": "SMDMG20230015",
+  "GrossWeight": 5.3,
+  "NetWeight": 5.09,
+  "DiamondWeight": 1.05,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230015.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4ca"
+  },
+  "proId": "SMDMG20230016",
+  "GrossWeight": 14.76,
+  "NetWeight": 14.279,
+  "DiamondWeight": 2.43,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230016.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4cb"
+  },
+  "proId": "SMDMG20230017",
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230017.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4cc"
+  },
+  "proId": "SMDMG20230018",
+  "GrossWeight": 6.12,
+  "NetWeight": 5.87,
+  "DiamondWeight": 1.25,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230018.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4cd"
+  },
+  "proId": "SMDMG20230019",
+  "GrossWeight": 4,
+  "NetWeight": 3.92,
+  "DiamondWeight": 0.42,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230019.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4ce"
+  },
+  "proId": "SMDMG20230020",
+  "GrossWeight": 19.4,
+  "NetWeight": 18.98,
+  "DiamondWeight": 2.11,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230020.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4cf"
+  },
+  "proId": "SMDMG20230021",
+  "GrossWeight": 5.8,
+  "NetWeight": 5.53,
+  "DiamondWeight": 0.45,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230021.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4d0"
+  },
+  "proId": "SMDMG20230022",
+  "GrossWeight": 3.5,
+  "NetWeight": 3.4,
+  "DiamondWeight": 0.72,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230022.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4d1"
+  },
+  "proId": "SMDMG20230023",
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230023.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657418fd2ca869c0a981e4d2"
+  },
+  "proId": "SMDMG20230024",
+  "GrossWeight": 7.08,
+  "NetWeight": 6.79,
+  "DiamondWeight": 1.46,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/MangalSutra/SMDMG20230024.webp"
+  ]
+}]

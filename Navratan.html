@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navratan</title>
+    <link rel="icon" type="image/x-icon" href="DisplayAssests/Favicon/ms-icon-150x150.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Navratan.css">
+    <script src="https://kit.fontawesome.com/ab6ce438bd.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div class="b2cmobShow " id="b2cmobShow">
+        <i id="b2cmobShowX" class="fa-solid fa-xmark"></i>
+        <div class="xyz flex">
+            <img src="Assets/myAssest/b2c.jpg" width="80%" alt="">
+            <p>
+                As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+                directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+                savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+            </p>
+        </div>
+    </div>
+    <div class="B2CforMobile " id="b2cMobile">
+        <i id="mobileX" class="fa-solid fa-xmark"></i>
+        <img id="b2cmobileImg" src="Assets/myAssest/badge/badge.png" alt="">
+    </div>
+    <div class="whatsappdiv">
+        <a target="_blank" href="https://wa.me/918097452090">
+            <img src="DisplayAssests/whatsapp-logo-png-2260.png" alt="">
+        </a>
+    </div>
+    <!-- image viewer start-->
+    <div class="imageView " id="imageView">
+        <img src="Assets/1.jpg" alt="Photo" id="imageDis">
+        <p onclick="closeViewer()"><i class="fa-solid fa-xmark"></i></p>
+
+    </div>
+    <!-- image viewer end-->
+    <!-- <img src="collectionAssets/Diamond/Earrings/smder20230029.1.webp" alt=""> -->
+
+    <!-- Navbar -->
+    <nav>
+        <div class="navbar flex container">
+            <div class="leftNav">
+                <a href="index.html"><img src="Assets/logo/logo.png" alt=""></a>
+            </div>
+            <div class="middleNav">
+                <ul class="menus flex">
+                    <div id="homePage">
+                        <a href="index.html">
+                            <li>Home</li>
+                        </a>
+                    </div>
+
+                    <div id="diamondCate">
+                        <div>Diamond</div>
+                        <div class="dropDown flex" id="diamondCateContainer">
+                            <a href="DiamondRing.html">
+                                <p>Rings</p>
+                            </a>
+                            <a href="DiamondEarring.html">
+                                <p>Earrings | Jhumkas</p>
+                            </a>
+                            <a href="DiamondMangalSutra.html">
+                                <p>Mangalsutra</p>
+                            </a>
+                            <a href="DiamondBanglesBracelets.html">
+                                <p>Bangles | Bracelet</p>
+                            </a>
+                            <a href="DiamondPendantSet.html">
+                                <p>Pendant Set</p>
+                            </a>
+                            <a href="DiamondNecklaceHaram.html">
+                                <p>Necklace | Haram</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div id="GemstonePearlsCate">
+                        <div id="active">Gemstone</div>
+                        <div class="dropDownG flex" id="GemstonePearlsCateContainer">
+                            <a href="Navratan.html">
+                                <p id="active">Navratan</p>
+                            </a>
+                            <a href="GemstomePearls.html">
+                                <p>Gemstone Jewellery</p>
+                            </a>
+                            <a href="BirthStone.html">
+                                <p>Birth Stone</p>
+                            </a>
+
+                        </div>
+                    </div>
+                    <div id="cusCate">
+                        <div>Customized Jewellery</div>
+                        <div class="dropDownc flex" id="cusCateContainer">
+                            <a href="GoldKundan.html">
+                                <p>Gold | Kundan | Polki</p>
+                            </a>
+                            <a href="CustomizedJewellery.html">
+                                <p>Diamond | Gemstone Jewellery</p>
+                            </a>
+
+
+                        </div>
+                    </div>
+
+
+                    <div id="aboutPage">
+                        <a href="AboutUs.html">
+                            <li>About Us</li>
+                        </a>
+                    </div>
+
+                    <!-- <a href="contactUs.html">
+                    <li>Contact Us</li>
+                </a>
+
+                <li id="ourCol">Our Collections</li> -->
+                </ul>
+            </div>
+            <div class="rightNav flex ">
+                <img id="b2cId" class="b2c" src="Assets/myAssest/badge/badge.png" alt="">
+
+                <i class="fa-solid fa-phone fa-lg" id="mobile"></i>
+                <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+                <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+                <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+            </div>
+
+            <div class="hamburger">
+                <i class="fa-solid fa-bars fa-lg" id="hamburgerId"></i>
+            </div>
+        </div>
+        <div class="ourCollectionContainer" id="ourCollectionContainerid">
+            <div class="ourCollectionMain container flex">
+                <div class="diamondCat">
+                    <h4>Diamond</h4>
+                    <a href="">
+                        <li>Rings </li>
+                    </a>
+                    <a href="">
+                        <li>Earrings | Jhumkas</li>
+                    </a>
+                    <a href="">
+                        <li>Mangalsutra</li>
+                    </a>
+                    <a href="">
+                        <li>Bangles | Bracelet</li>
+                    </a>
+                    <a href="">
+                        <li>Pendant Set</li>
+                    </a>
+                    <a href="">
+                        <li>Necklace | Haram</li>
+                    </a>
+                </div>
+                <div class="goldCat">
+                    <h4>Gold</h4>
+                    <a href="">
+                        <li>Rings </li>
+                    </a>
+                    <a href="">
+                        <li>Earrings | Jhumkas</li>
+                    </a>
+                    <a href="">
+                        <li>Mangalsutra</li>
+                    </a>
+                    <a href="">
+                        <li>Bangles | Bracelet</li>
+                    </a>
+                    <a href="">
+                        <li>Pendant Set</li>
+                    </a>
+                    <a href="">
+                        <li>Necklace | Haram</li>
+                    </a>
+                </div>
+                <div class="gemstoneCat">
+                    <h4>Gemstones | Pearls</h4>
+                    <a href="">
+                        <li>Navratna</li>
+                    </a>
+                    <a href="">
+                        <li>Exclusive</li>
+                    </a>
+                    <a href="">
+                        <li>Jewellery</li>
+                    </a>
+                    <a href="">
+                        <li>Birth Stone</li>
+                    </a>
+
+                </div>
+                <div class="customizedCat">
+                    <h4>Customized Jewellery</h4>
+                    <a href="">
+                        <li>Jewellery</li>
+                    </a>
+
+                </div>
+            </div>
+
+        </div>
+        <div class="b2cContainer flex" id="b2cContainerId">
+            <div class="b2cContent container flex">
+                <div class="imgDivContainer ">
+                    <img src="Assets/myAssest/b2c.jpg" alt="">
+                </div>
+                <div class="descriptionDivContainer flex">
+                    <p>
+                        As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+                        directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+                        savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+                    </p>
+
+
+                </div>
+            </div>
+
+        </div>
+    </nav>
+    <!-- SideBar for devices smaller then laptop  fa-x -->
+    <div class="sideMain" id="sideBarId">
+        <div class="sideBar flex">
+            <i class="fa-solid fa-arrow-right-long fa-lg" id="cross"></i>
+            <ul class="menusforsmalld flex">
+                <a href="index.html">
+                    <li>Home</li>
+                </a>
+                <a href="AboutUs.html">
+                    <li>About Us</li>
+                </a>
+                <a href="contactUs.html">
+                    <li>Contact Us</li>
+                </a>
+
+                <div class="diamondCSD" id="diamondCSD">
+                    <p>Diamond <i class="fa-solid fa-angle-down"></i></p>
+                    <div class="diamondList" id="diamondList">
+                        <a href="DiamondRing.html">
+                            <p>Rings</p>
+                        </a>
+                        <a href="DiamondEarring.html">
+                            <p>Earrings | Jhumkas</p>
+                        </a>
+                        <a href="DiamondMangalSutra.html">
+                            <p>Mangalsutra</p>
+                        </a>
+                        <a href="DiamondBanglesBracelets.html">
+                            <p>Bangles | Bracelet</p>
+                        </a>
+                        <a href="DiamondPendantSet.html">
+                            <p>Pendant Set</p>
+                        </a>
+                        <a href="DiamondNecklaceHaram.html">
+                            <p>Necklace | Haram</p>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="gemstoneCSD" id="gemstoneCSD">
+                    <p>Gemstone | Pearls <i class="fa-solid fa-angle-down"></i></p>
+                    <div class="gemList" id="gemList">
+                        <a href="Navratan.html">
+                            <p>Navratan</p>
+                        </a>
+                        <a href="GemstomePearls.html">
+                            <p>Jewellery</p>
+                        </a>
+                        <a href="BirthStone.html">
+                            <p>Birth Stone</p>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div class="customizedCSD" id="customizedCSD">
+                    <p>Customized Jewellery <i class="fa-solid fa-angle-down"></i></p>
+                    <div class="customizedList" id="customizedList">
+                        <a href="GoldKundan.html">
+                            <p>Gold | Kundan | Polki</p>
+                        </a>
+                        <a href="CustomizedJewellery.html">
+                            <p>Diamond | Gemstone</p>
+                        </a>
+
+
+                    </div>
+                </div>
+            </ul>
+            <div class="socialMenusforsmalld flex">
+                <!-- <div class="socialDiv flex">
+            <p>Phone </p>
+            <p>|</p>
+            <i class="fa-solid fa-phone fa-sm" id="mobile"></i>
+
+        </div>
+        <div class="socialDiv flex">
+            <p>Mail </p>
+            <p>|</p>
+            <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+
+        </div>
+        <div class="socialDiv flex">
+            <p>Instagram </p>
+            <p>|</p>
+            <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+
+        </div>
+        <div class="socialDiv flex">
+            <p>Whats App </p>
+            <p>|</p>
+            <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+
+        </div> -->
+                <table>
+                    <tr>
+                        <td><a href="tel: +91 8097452090"><i class="fa-solid fa-phone fa-sm" id="mobile"></i></a></td>
+                        <td>|</td>
+                        <td><a href="tel: +91 8097452090">Phone</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="mailto:shrimeenakshidiamonds@gmail.com"><i class="fa-regular fa-envelope fa-lg"
+                                    id="gmail"></i></a></td>
+                        <td>|</td>
+                        <td><a href="mailto:shrimeenakshidiamonds@gmail.com">Mail</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.instagram.com/smd.jewels/"><i class="fa-brands fa-instagram fa-lg"
+                                    id="insta"></i></a></td>
+                        <td>|</td>
+                        <td><a href="https://www.instagram.com/smd.jewels/">Instagram</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://wa.me/918097452090"><i class="fa-brands fa-whatsapp fa-lg"
+                                    id="whatsapp"></a></i></td>
+                        <td>|</td>
+                        <td><a href="https://wa.me/918097452090">Whats App</a></td>
+                    </tr>
+
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- Navbar -->
+
+
+    <div class="mainNavratanContainer">
+
+        <section>
+            <div class="navratanContainer flex container">
+                <div class="navratanDes flex">
+
+                    <p><span class="asd"> Navratna</span> gemstones, also known as the Nine
+                        Gems or Navagraha Gemstones, hold significant
+                        cultural and astrological importance in various
+                        traditions, particularly in Hinduism and Vedic
+                        astrology. Each gemstone is associated with one
+                        of the nine celestial bodies or planets, believed
+                        to have a specific influence on an individual's life.
+                        Here are the nine Navratna gemstones along with their
+                        associated planets.</p>
+                </div>
+                <div class="navratanImage flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/navratan.png" alt="">
+                </div>
+            </div>
+            <div class="navHeadingMain flex">
+                <h1 class="navHeading">NAVRATAN</h1>
+            </div>
+            <div class="navratanAllStone container flex">
+
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/1.neelam.webp" alt="">
+                    <h4>Blue Sapphire (Neelam)</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/2.ruby-manik-822185_s.webp" alt="">
+                    <h4>Ruby (Manik)</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/3.emerald-panna-418511_s.webp" alt="">
+                    <h4>Emerald (Panna)</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/4.yellow-sapphire-pukhraj-903134_s.webp" alt="">
+                    <h4>Yellow Sapphire (Pukhraj)</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/5.diamond-214487_s.webp" alt="">
+                    <h4>Diamond (Heera)</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/6.pearl-moti-913924_s.webp" alt="">
+                    <h4>Pearl (Moti)</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/7.coral-moonga-531433_s.webp" alt="">
+                    <h4>Coral (Moonga)</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/8.hessonite-gomed-775035_s.webp" alt="">
+                    <h4>Hessonite (Gomed)</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Navratna/9.cats-eye-lehsunia-104501_s.webp" alt="">
+                    <h4>Cat's Eye (Lehsunia)</h4>
+                </div>
+
+            </div>
+
+            <div class="navHeadingMain flex">
+                <h1 class="navHeading">EXCLUSIVE NAVRATAN</h1>
+            </div>
+            <div class="exclusiveAllStone container flex">
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/1.alexandrite-733521_s.webp" alt="">
+                    <h4>Alexandrite</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/2.burma-ruby-783128_s.webp" alt="">
+                    <h4>Burma Ruby</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/3.colombia-452859_s.webp" alt="">
+                    <h4>Colombian Emerald</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/4.cornflower-blue-sapphire-121522_s.webp"
+                        alt="">
+                    <h4>Cornflower Blue Sapphire</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/5.kashmir-763084_s.webp" alt="">
+                    <h4>No-Oil Emerald</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/6.no-oil-emerald-139564_s.webp" alt="">
+                    <h4>Kashmir Blue Sapphire</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/7.pad-sapp-352846_s.webp" alt="">
+                    <h4>Padparadscha</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/8.panjshir-emerald-884748_s.webp"
+                        alt="">
+                    <h4>Panjshir Emerald</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/9.pigeon-blood-ruby-395638_s.webp"
+                        alt="">
+                    <h4>Pigeon Blood Ruby</h4>
+                </div>
+                <div class="imgDis flex">
+                    <img src="collectionAssets/Gemstones_pearl/Exclusive Ratnas/10.royal-blue-sapphire-204850_s.webp"
+                        alt="">
+                    <h4>Royal Blue Sapphire</h4>
+                </div>
+            </div>
+        </section>
+
+        <div class="allStoneDesp">
+            <div class="singleStoneMain">
+                <div class="singleStone container flex">
+                    <div class="singleStoneDesp">
+                        <p><span class="asd asdsize">Blue Sapphire (Neelam)</span><br><br>
+
+                            <span class="boldT"> Associated Planet:</span> Saturn (Shani) <br>
+                            <span class="boldT"> Properties:</span> Blue Sapphire is a deep
+                            blue gemstone associated with discipline,
+                            focus, and protection. It is believed to
+                            bring stability, alleviate obstacles, and
+                            enhance mental clarity.
+                        </p>
+                    </div>
+                    <div class="singleStoneImg flex">
+                        <img src="collectionAssets/Gemstones_pearl/Navratna/1.neelam.webp" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="singleStoneMain">
+                <div class="singleStone container flex rowreverse">
+                    <div class="singleStoneDesp">
+                        <p><span class="asd asdsize">Ruby (Manik)</span><br><br>
+
+                            <span class="boldT"> Associated Planet:</span> Sun (Surya) <br>
+                            <span class="boldT"> Properties:</span> Ruby is known for its
+                            vibrant red color and is associated
+                            with qualities like vitality, courage,
+                            and leadership. It is believed to enhance
+                            the wearer's confidence and bring success.
+                        </p>
+                    </div>
+                    <div class="singleStoneImg flex">
+                        <img src="collectionAssets/Gemstones_pearl/Navratna/2.ruby-manik-822185_s.webp" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="singleStoneMain">
+                <div class="singleStone container flex">
+                    <div class="singleStoneDesp">
+                        <p><span class="asd asdsize">Emerald (Panna)</span><br><br>
+
+                            <span class="boldT"> Associated Planet:</span> Mercury (Budh) <br>
+                            <span class="boldT"> Properties:</span> Emerald is a green gemstone
+                            symbolizing intelligence, communication,
+                            and wisdom. It is believed to enhance mental
+                            clarity, concentration, and creativity.
+                        </p>
+                    </div>
+                    <div class="singleStoneImg flex">
+                        <img src="collectionAssets/Gemstones_pearl/Navratna/3.emerald-panna-418511_s.webp" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="singleStoneMain">
+                <div class="singleStone container flex rowreverse">
+                    <div class="singleStoneDesp">
+                        <p><span class="asd asdsize">Yellow Sapphire (Pukhraj)</span><br><br>
+
+                            <span class="boldT"> Associated Planet:</span> Jupiter (Brihaspati) <br>
+                            <span class="boldT"> Properties:</span> Yellow Sapphire is known for
+                            its yellow hues and is associated with wisdom,
+                            prosperity, and good fortune. It is believed to
+                            bring wealth, success, and spiritual growth.
+                        </p>
+                    </div>
+                    <div class="singleStoneImg flex">
+                        <img src="collectionAssets/Gemstones_pearl/Navratna/4.yellow-sapphire-pukhraj-903134_s.webp"
+                            alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="singleStoneMain">
+                <div class="singleStone container flex">
+                    <div class="singleStoneDesp">
+                        <p><span class="asd asdsize">Diamond (Heera)</span><br><br>
+
+                            <span class="boldT"> Associated Planet:</span> Venus (Shukra) <br>
+                            <span class="boldT"> Properties:</span> Diamond is renowned for
+                            its brilliance and is associated with
+                            love, beauty, and luxury. It is believed
+                            to bring harmony in relationships and
+                            enhance the wearer's charm.
+                        </p>
+                    </div>
+                    <div class="singleStoneImg flex">
+                        <img src="collectionAssets/Gemstones_pearl/Navratna/5.diamond-214487_s.webp" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="singleStoneMain">
+                <div class="singleStone container flex rowreverse">
+                    <div class="singleStoneDesp">
+                        <p><span class="asd asdsize">Pearl (Moti)</span><br><br>
+
+                            <span class="boldT"> Associated Planet:</span> Moon (Chandra) <br>
+                            <span class="boldT"> Properties:</span> Pearl is a symbol of purity
+                            and is associated with calmness and emotional
+                            balance. It is believed to bring harmony and
+                            stability to the wearer's life.
+                        </p>
+                    </div>
+                    <div class="singleStoneImg flex">
+                        <img src="collectionAssets/Gemstones_pearl/Navratna/6.pearl-moti-913924_s.webp" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="singleStoneMain">
+                <div class="singleStone container flex">
+                    <div class="singleStoneDesp">
+                        <p><span class="asd asdsize">Coral (Moonga)</span><br><br>
+
+                            <span class="boldT"> Associated Planet:</span> Mars (Mangal) <br>
+                            <span class="boldT"> Properties:</span>Coral is known for its
+                            reddish or pinkish hue and is associated
+                            with energy, strength, and courage. It is
+                            believed to enhance vitality and protect
+                            against negative influences.
+                        </p>
+                    </div>
+                    <div class="singleStoneImg flex">
+                        <img src="collectionAssets/Gemstones_pearl/Navratna/7.coral-moonga-531433_s.webp" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="singleStoneMain">
+                <div class="singleStone container flex rowreverse">
+                    <div class="singleStoneDesp flex">
+                        <p><span class="asd asdsize">Hessonite Garnet (Gomed)</span><br><br>
+
+                            <span class="boldT"> Associated Planet:</span> Rahu (North Node of the Moon) <br>
+                            <span class="boldT"> Properties:</span>Hessonite Garnet is an orange-brown
+                            gemstone associated with protection and strength.
+                            It is believed to ward off negative energies and
+                            enhance the wearer's intuition.
+                        </p>
+                    </div>
+                    <div class="singleStoneImg flex">
+                        <img src="collectionAssets/Gemstones_pearl/Navratna/8.hessonite-gomed-775035_s.webp" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="singleStoneMain">
+                <div class="singleStone container flex">
+                    <div class="singleStoneDesp">
+                        <p><span class="asd asdsize">Cat's Eye (Lehsunia)</span><br><br>
+
+                            <span class="boldT"> Associated Planet:</span> Ketu (South Node of the Moon) <br>
+                            <span class="boldT"> Properties:</span>Cat's Eye is a chatoyant gemstone with
+                            a distinct band of light resembling a cat's eye.
+                            It is associated with protection and spiritual insight,
+                            believed to ward off malevolent forces.
+                        </p>
+                    </div>
+                    <div class="singleStoneImg flex">
+                        <img src="collectionAssets/Gemstones_pearl/Navratna/9.cats-eye-lehsunia-104501_s.webp" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+    <!-- Footer start -->
+    <footer>
+        <div class="footerMainContainer flex container">
+            <div class="onefooterMainContainer flex">
+                <a href="index.html" class="flex"><img src="Assets/Logo/logoWhite.png" alt=""></a>
+            </div>
+            <div class="twofooterMainContainer flex">
+                <div class="ToptwofooterMainContainer flex">
+                    <h3>Navigate</h3>
+                    <a href="index.html">
+                        <li>Home</li>
+                    </a>
+                    <a href="AboutUs.html">
+                        <li>About Us</li>
+                    </a>
+                    <a href="contactUs.html">
+                        <li>Contact Us</li>
+                    </a>
+                </div>
+
+            </div>
+            <div class="threefooterMainContainer flex">
+
+                <div class="BottomtwofooterMainContainer flex">
+                    <h3>Chase us on</h3>
+                    <div class="socialIcons flex ">
+                        <!-- <a href="#"><i class="footerIcon fa-solid fa-phone fa-lg" id="mobile"></i></a> -->
+                        <!-- <a href="#"><i class="footerIcon fa-regular fa-envelope fa-lg" id="gmail"></i></a> -->
+                        <a target="_blank" href="https://www.instagram.com/smd.jewels/"><i
+                                class="footerIcon fa-brands fa-instagram fa-lg" id="insta"></i></a>
+                        <a target="_blank" href="https://www.facebook.com/smdjewellers/"><i
+                                class="footerIcon fa-brands fa-facebook-f fa-lg" id="fb"></i></a>
+                        <a target="_blank" href="https://www.youtube.com/"><i
+                                class="footerIcon fa-brands fa-youtube fa-lg" id="youtube"></i></a>
+                        <a target="_blank" href="https://wa.me/918097452090"><i
+                                class="footerIcon fa-brands fa-whatsapp fa-lg" id="whatsapp"></i></a>
+                    </div>
+                </div>
+                <!-- <div class="CollectionNavigate flex">
+                <h3>Our Collections</h3>
+                <a href="#">
+                    <li>Diamonds</li>
+                </a>
+
+                <a href="#">
+                    <li>Gold Jewellery</li>
+                </a>
+                <a href="#">
+                    <li>Gemstone | Pearl</li>
+                </a>
+
+                <a href="#">
+                    <li>Customized Jewellery</li>
+                </a>
+            </div> -->
+            </div>
+            <div class="fourfooterMainContainer flex">
+                <h3>Address</h3>
+                <!-- <p>Salasar Nagar, BLDG No 5/103, Navghar Road, Bhayande, Navghar Rd, Bhayandar, Salasar Nagar, Bhayandar
+                East, Maharashtra 401105</p> -->
+                <a target="_blank" href="https://maps.app.goo.gl/EX2WQWazbPoacefX7">
+                    <p>BLDG No 5/103, Navghar Road, Salasar Nagar, Bhayandar East, Maharashtra 401105.</p>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <div class="subFooterContainer flex">
+        <p>All rights reserved. Powered by the <a href="https://acrosysinfotech.in/" target="_blank">Acrosys
+                Infotech</a></p>
+    </div>
+
+    <!-- Footer end -->
+
+
+
+
+    <script src="script.js"></script>
+    <script src="uni.js"></script>
+</body>
+
+</html>

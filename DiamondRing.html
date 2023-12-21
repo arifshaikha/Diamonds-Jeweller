@@ -1,0 +1,1324 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rings</title>
+  <link rel="icon" type="image/x-icon" href="DisplayAssests/Favicon/ms-icon-150x150.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="collection.css">
+  <script src="https://kit.fontawesome.com/ab6ce438bd.js" crossorigin="anonymous"></script>
+
+</head>
+
+
+<!-- <img src="Assets/logo/logo.png" alt="" onclick="show(this.src)" > -->
+
+<body>
+  <div class="b2cmobShow " id="b2cmobShow">
+    <i id="b2cmobShowX" class="fa-solid fa-xmark"></i>
+    <div class="xyz flex">
+        <img src="Assets/myAssest/b2c.jpg" width="80%" alt="">
+        <p>
+            As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+            directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+            savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+        </p>
+    </div>
+</div>
+<div class="B2CforMobile " id="b2cMobile">
+    <i id="mobileX" class="fa-solid fa-xmark"></i>
+    <img id="b2cmobileImg" src="Assets/myAssest/badge/badge.png" alt="">
+</div>
+  <div class="whatsappdiv">
+    <a target="_blank" href="https://wa.me/918097452090">
+      <img src="DisplayAssests/whatsapp-logo-png-2260.png" alt="">
+    </a>
+  </div>
+  <!-- image viewer start-->
+  <div class="imageView " id="imageView">
+    <img src="Assets/1.jpg" alt="Photo" id="imageDis">
+    <p onclick="closeViewer()"><i class="fa-solid fa-xmark"></i></p>
+
+  </div>
+  <!-- image viewer end-->
+  <!-- <img src="collectionAssets/Diamond/Earrings/smder20230029.1.webp" alt=""> -->
+
+
+  <!-- Navbar -->
+  <nav>
+    <div class="navbar flex container">
+      <div class="leftNav">
+        <a href="index.html"><img src="Assets/logo/logo.png" alt=""></a>
+      </div>
+      <div class="middleNav">
+        <ul class="menus flex">
+          <div id="homePage">
+            <a href="index.html">
+              <li>Home</li>
+            </a>
+          </div>
+
+          <div id="diamondCate">
+            <div id="active">Diamond</div>
+            <div class="dropDown flex" id="diamondCateContainer">
+              <a href="DiamondRing.html">
+                <p id="active">Rings</p>
+              </a>
+              <a href="DiamondEarring.html">
+                <p>Earrings | Jhumkas</p>
+              </a>
+              <a href="DiamondMangalSutra.html">
+                <p>Mangalsutra</p>
+              </a>
+              <a href="DiamondBanglesBracelets.html">
+                <p>Bangles | Bracelet</p>
+              </a>
+              <a href="DiamondPendantSet.html">
+                <p>Pendant Set</p>
+              </a>
+              <a href="DiamondNecklaceHaram.html">
+                <p>Necklace | Haram</p>
+              </a>
+            </div>
+          </div>
+          <div id="GemstonePearlsCate">
+            <div>Gemstone</div>
+            <div class="dropDownG flex" id="GemstonePearlsCateContainer">
+              <a href="Navratan.html">
+                <p>Navratan</p>
+              </a>
+              <a href="GemstomePearls.html">
+                <p>Gemstone Jewellery</p>
+              </a>
+              <a href="BirthStone.html">
+                <p>Birth Stone</p>
+              </a>
+
+            </div>
+          </div>
+          <div id="cusCate">
+            <div>Customized Jewellery</div>
+            <div class="dropDownc flex" id="cusCateContainer">
+              <a href="GoldKundan.html">
+                <p>Gold | Kundan | Polki</p>
+              </a>
+              <a href="CustomizedJewellery.html">
+                <p>Diamond | Gemstone Jewellery</p>
+              </a>
+
+
+            </div>
+          </div>
+
+
+          <div id="aboutPage">
+            <a href="AboutUs.html">
+              <li>About Us</li>
+            </a>
+          </div>
+
+          <!-- <a href="contactUs.html">
+                <li>Contact Us</li>
+            </a>
+
+            <li id="ourCol">Our Collections</li> -->
+        </ul>
+      </div>
+      <div class="rightNav flex ">
+        <img id="b2cId" class="b2c" src="Assets/myAssest/badge/badge.png" alt="">
+
+        <i class="fa-solid fa-phone fa-lg" id="mobile"></i>
+        <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+        <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+        <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+      </div>
+
+      <div class="hamburger">
+        <i class="fa-solid fa-bars fa-lg" id="hamburgerId"></i>
+      </div>
+    </div>
+    <div class="ourCollectionContainer" id="ourCollectionContainerid">
+      <div class="ourCollectionMain container flex">
+        <div class="diamondCat">
+          <h4>Diamond</h4>
+          <a href="">
+            <li>Rings </li>
+          </a>
+          <a href="">
+            <li>Earrings | Jhumkas</li>
+          </a>
+          <a href="">
+            <li>Mangalsutra</li>
+          </a>
+          <a href="">
+            <li>Bangles | Bracelet</li>
+          </a>
+          <a href="">
+            <li>Pendant Set</li>
+          </a>
+          <a href="">
+            <li>Necklace | Haram</li>
+          </a>
+        </div>
+        <div class="goldCat">
+          <h4>Gold</h4>
+          <a href="">
+            <li>Rings </li>
+          </a>
+          <a href="">
+            <li>Earrings | Jhumkas</li>
+          </a>
+          <a href="">
+            <li>Mangalsutra</li>
+          </a>
+          <a href="">
+            <li>Bangles | Bracelet</li>
+          </a>
+          <a href="">
+            <li>Pendant Set</li>
+          </a>
+          <a href="">
+            <li>Necklace | Haram</li>
+          </a>
+        </div>
+        <div class="gemstoneCat">
+          <h4>Gemstones | Pearls</h4>
+          <a href="">
+            <li>Navratna</li>
+          </a>
+          <a href="">
+            <li>Exclusive</li>
+          </a>
+          <a href="">
+            <li>Jewellery</li>
+          </a>
+          <a href="">
+            <li>Birth Stone</li>
+          </a>
+
+        </div>
+        <div class="customizedCat">
+          <h4>Customized Jewellery</h4>
+          <a href="">
+            <li>Jewellery</li>
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+    <div class="b2cContainer flex" id="b2cContainerId">
+      <div class="b2cContent container flex">
+        <div class="imgDivContainer ">
+          <img src="Assets/myAssest/b2c.jpg" alt="">
+        </div>
+        <div class="descriptionDivContainer flex">
+          <p>
+            As a B2C brand, we cut out the middlemen, ensuring that you receive your diamond jewelry
+            directly from us. By eliminating unnecessary layers of distribution, we pass on significant cost
+            savings to you. Enjoy the beauty of high-quality diamonds without the inflated price tags.
+          </p>
+
+
+        </div>
+      </div>
+
+    </div>
+  </nav>
+  <!-- SideBar for devices smaller then laptop  fa-x -->
+  <div class="sideMain" id="sideBarId">
+    <div class="sideBar flex">
+      <i class="fa-solid fa-arrow-right-long fa-lg" id="cross"></i>
+      <ul class="menusforsmalld flex">
+        <a href="index.html">
+          <li>Home</li>
+        </a>
+        <a href="AboutUs.html">
+          <li>About Us</li>
+        </a>
+        <a href="contactUs.html">
+          <li>Contact Us</li>
+        </a>
+
+        <div class="diamondCSD" id="diamondCSD">
+          <p>Diamond <i class="fa-solid fa-angle-down"></i></p>
+          <div class="diamondList" id="diamondList">
+            <a href="DiamondRing.html">
+              <p>Rings</p>
+            </a>
+            <a href="DiamondEarring.html">
+              <p>Earrings | Jhumkas</p>
+            </a>
+            <a href="DiamondMangalSutra.html">
+              <p>Mangalsutra</p>
+            </a>
+            <a href="DiamondBanglesBracelets.html">
+              <p>Bangles | Bracelet</p>
+            </a>
+            <a href="DiamondPendantSet.html">
+              <p>Pendant Set</p>
+            </a>
+            <a href="DiamondNecklaceHaram.html">
+              <p>Necklace | Haram</p>
+            </a>
+          </div>
+        </div>
+
+        <div class="gemstoneCSD" id="gemstoneCSD">
+          <p>Gemstone | Pearls <i class="fa-solid fa-angle-down"></i></p>
+          <div class="gemList" id="gemList">
+            <a href="Navratan.html">
+              <p>Navratan</p>
+            </a>
+            <a href="GemstomePearls.html">
+              <p>Jewellery</p>
+            </a>
+            <a href="BirthStone.html">
+              <p>Birth Stone</p>
+            </a>
+
+          </div>
+        </div>
+
+        <div class="customizedCSD" id="customizedCSD">
+          <p>Customized Jewellery <i class="fa-solid fa-angle-down"></i></p>
+          <div class="customizedList" id="customizedList">
+            <a href="GoldKundan.html">
+              <p>Gold | Kundan | Polki</p>
+            </a>
+            <a href="CustomizedJewellery.html">
+              <p>Diamond | Gemstone</p>
+            </a>
+
+
+          </div>
+        </div>
+      </ul>
+      <div class="socialMenusforsmalld flex">
+        <!-- <div class="socialDiv flex">
+        <p>Phone </p>
+        <p>|</p>
+        <i class="fa-solid fa-phone fa-sm" id="mobile"></i>
+
+    </div>
+    <div class="socialDiv flex">
+        <p>Mail </p>
+        <p>|</p>
+        <i class="fa-regular fa-envelope fa-lg" id="gmail"></i>
+
+    </div>
+    <div class="socialDiv flex">
+        <p>Instagram </p>
+        <p>|</p>
+        <i class="fa-brands fa-instagram fa-lg" id="insta"></i>
+
+    </div>
+    <div class="socialDiv flex">
+        <p>Whats App </p>
+        <p>|</p>
+        <i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></i>
+
+    </div> -->
+        <table>
+          <tr>
+            <td><a href="tel: +91 8097452090"><i class="fa-solid fa-phone fa-sm" id="mobile"></i></a></td>
+            <td>|</td>
+            <td><a href="tel: +91 8097452090">Phone</a></td>
+          </tr>
+          <tr>
+            <td><a href="mailto:shrimeenakshidiamonds@gmail.com"><i class="fa-regular fa-envelope fa-lg"
+                  id="gmail"></i></a></td>
+            <td>|</td>
+            <td><a href="mailto:shrimeenakshidiamonds@gmail.com">Mail</a></td>
+          </tr>
+          <tr>
+            <td><a href="https://www.instagram.com/smd.jewels/"><i class="fa-brands fa-instagram fa-lg"
+                  id="insta"></i></a></td>
+            <td>|</td>
+            <td><a href="https://www.instagram.com/smd.jewels/">Instagram</a></td>
+          </tr>
+          <tr>
+            <td><a href="https://wa.me/918097452090"><i class="fa-brands fa-whatsapp fa-lg" id="whatsapp"></a></i></td>
+            <td>|</td>
+            <td><a href="https://wa.me/918097452090">Whats App</a></td>
+          </tr>
+
+        </table>
+      </div>
+    </div>
+  </div>
+  <!-- Navbar -->
+
+
+
+
+  <!-- productCardTemplate -->
+  <template id="proCard">
+    <div class="card-wrapper ">
+      <div class="cardP">
+        <!-- card left -->
+        <div class="product-imgs">
+          <div class="img-display">
+            <div class="img-showcase" id="imageDisplay">
+              <img src="" alt="image" onclick="show(this.src)">
+              <img src="" alt="image" onclick="show(this.src)">
+              <img src="" alt="image" onclick="show(this.src)">
+              <img src="" alt="image" onclick="show(this.src)">
+            </div>
+          </div>
+          <div class="img-select">
+            <div class="img-item">
+              <img src="" onclick="ArRafi(this.getAttribute('data-id'),this.alt)">
+            </div>
+            <div class="img-item">
+              <img src="" onclick="ArRafi(this.getAttribute('data-id'),this.alt)">
+            </div>
+            <div class="img-item">
+              <img src="" onclick="ArRafi(this.getAttribute('data-id'),this.alt)">
+            </div>
+            <div class="img-item">
+              <img src="" onclick="ArRafi(this.getAttribute('data-id'),this.alt)">
+            </div>
+
+          </div>
+        </div>
+        <!-- card right -->
+        <div class="product-content">
+          <h4 class="product-title"></h4>
+          <div class="productWeight flex">
+            <div class="grossWeight">Gross Weight <br> <span id="grosswgt"></span> gm</div>
+            <div class="netWeight">Net Weight <br> <span id="netwgt"></span> gm</div>
+          </div>
+          <div class="productdetail flex">
+            <div class="diamondWeight">Diamond Weight <br> <span id="diamondwgt">0</span> CTS</div>
+            <div class="productPrice ">Wholesale Price <br> ₹ <span id="totalPrice"></span> /-</div>
+          </div>
+          <div class="lastRow flex">
+            <div class="karat" id="karat"></div>
+            <div>Diamond-GH-VS</div>
+          </div>
+
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </template>
+  <!-- productCardTemplate -->
+
+
+  <div class="proCont">
+    <div class="pageHeading  flex">
+      <h2>Diamond Rings</h2>
+      <div class="rightP flex">
+        <img src="collectionAssets/Badges/Badge.png" alt="">
+      </div>
+    </div>
+    <div class="productContainer flex " id="productContainerId">
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Footer start -->
+  <footer>
+    <div class="footerMainContainer flex container">
+      <div class="onefooterMainContainer flex">
+        <a href="index.html" class="flex"><img src="Assets/Logo/logoWhite.png" alt=""></a>
+      </div>
+      <div class="twofooterMainContainer flex">
+        <div class="ToptwofooterMainContainer flex">
+          <h3>Navigate</h3>
+          <a href="index.html">
+            <li>Home</li>
+          </a>
+          <a href="AboutUs.html">
+            <li>About Us</li>
+          </a>
+          <a href="contactUs.html">
+            <li>Contact Us</li>
+          </a>
+        </div>
+
+      </div>
+      <div class="threefooterMainContainer flex">
+
+        <div class="BottomtwofooterMainContainer flex">
+          <h3>Chase us on</h3>
+          <div class="socialIcons flex ">
+            <!-- <a href="#"><i class="footerIcon fa-solid fa-phone fa-lg" id="mobile"></i></a> -->
+            <!-- <a href="#"><i class="footerIcon fa-regular fa-envelope fa-lg" id="gmail"></i></a> -->
+            <a target="_blank" href="https://www.instagram.com/smd.jewels/"><i
+                class="footerIcon fa-brands fa-instagram fa-lg" id="insta"></i></a>
+            <a target="_blank" href="https://www.facebook.com/smdjewellers/"><i
+                class="footerIcon fa-brands fa-facebook-f fa-lg" id="fb"></i></a>
+            <a target="_blank" href="https://www.youtube.com/"><i class="footerIcon fa-brands fa-youtube fa-lg"
+                id="youtube"></i></a>
+            <a target="_blank" href="https://wa.me/918097452090"><i class="footerIcon fa-brands fa-whatsapp fa-lg"
+                id="whatsapp"></i></a>
+          </div>
+        </div>
+        <!-- <div class="CollectionNavigate flex">
+                <h3>Our Collections</h3>
+                <a href="#">
+                    <li>Diamonds</li>
+                </a>
+
+                <a href="#">
+                    <li>Gold Jewellery</li>
+                </a>
+                <a href="#">
+                    <li>Gemstone | Pearl</li>
+                </a>
+
+                <a href="#">
+                    <li>Customized Jewellery</li>
+                </a>
+            </div> -->
+      </div>
+      <div class="fourfooterMainContainer flex">
+        <h3>Address</h3>
+        <!-- <p>Salasar Nagar, BLDG No 5/103, Navghar Road, Bhayande, Navghar Rd, Bhayandar, Salasar Nagar, Bhayandar
+                East, Maharashtra 401105</p> -->
+        <a target="_blank" href="https://maps.app.goo.gl/EX2WQWazbPoacefX7">
+          <p>BLDG No 5/103, Navghar Road, Salasar Nagar, Bhayandar East, Maharashtra 401105.</p>
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <div class="subFooterContainer flex">
+    <p>All rights reserved. Powered by the <a href="https://acrosysinfotech.in/" target="_blank">Acrosys
+        Infotech</a></p>
+  </div>
+
+  <!-- Footer end -->
+
+
+
+
+  <!-- <div class="spacer" style="height: 50vh;"></div> -->
+
+  <script src="Collection.js"></script>
+  <script src="script.js"></script>
+  <script src="uni.js"></script>
+
+  <script>
+    let coupleRings=[
+  {
+  "_id": {
+    "$oid": "657d5796f8949f331333327d"
+  },
+  "proId": "SMDRN20230004",
+  "GrossWeight": "4.23 + 7.88",
+  "NetWeight": "4 + 7.84",
+  "DiamondWeight": "0.15 + 0.2",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 145000,
+  "colorStone": 0,
+  "wSalePrice": 92220,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230004.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230004.1.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230004.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f331333327e"
+  },
+  "proId": "SMDRN20230008",
+  "GrossWeight": "4.85 + 4.85",
+  "NetWeight": "3.9 + 3.9",
+  "DiamondWeight": "0.25 + 0.25",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 100000,
+  "colorStone": 37575,
+  "colorStoneDes": "4.5ct  zambian",
+  "wSalePrice": 106364,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230008.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f331333327f"
+  },
+  "proId": "SMDRN20230023",
+  "GrossWeight": "2.5 + 10.5",
+  "NetWeight": "2.33 + 10.48",
+  "DiamondWeight": "0.85 + 0.12",
+  "MakingCharges": 2000,
+  "Karat": "Platinum",
+  "DiamondRate": 296940,
+  "colorStone": 0,
+  "wSalePrice": 263682,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230023.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230023.1.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230023.2.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230023.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333280"
+  },
+  "proId": "SMDRN20230025",
+  "GrossWeight": "4.8 + 11.25",
+  "NetWeight": "4.77 + 11.21",
+  "DiamondWeight": "0.15 + 0.2",
+  "MakingCharges": 2000,
+  "Karat": "Platinum",
+  "DiamondRate": 145000,
+  "colorStone": 0,
+  "wSalePrice": 94464,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230025.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230025.1.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230025.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333281"
+  },
+  "proId": "SMDRN20230026",
+  "GrossWeight": "3.7 + 3.43",
+  "NetWeight": "3.64 + 3.34",
+  "DiamondWeight": "0.29 + 0.46",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 100000,
+  "colorStone": 0,
+  "wSalePrice": 76686,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230026.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230026.1.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230026.2.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230026.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333282"
+  },
+  "proId": "SMDRN20230027",
+  "GrossWeight": "3.15 + 3.22",
+  "NetWeight": "2.79 + 2.86",
+  "DiamondWeight": "0.31 + 0.32",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 100000,
+  "colorStone": 1000,
+  "wSalePrice": 64219,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230027.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230027.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333283"
+  },
+  "proId": "SMDRN20230033",
+  "GrossWeight": "2.79 + 3.54",
+  "NetWeight": "2.71 + 3.5",
+  "DiamondWeight": "0.39 + 0.18",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 100000,
+  "colorStone": 0,
+  "wSalePrice": 63363,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230033.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230033.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "657d5796f8949f3313333284"
+  },
+  "proId": "SMDRN20230034",
+  "GrossWeight": "4.27 + 3.39",
+  "NetWeight": "4.19 + 3.33",
+  "DiamondWeight": "0.4 + 0.29",
+  "MakingCharges": 1500,
+  "Karat": "18kt Gold",
+  "DiamondRate": 108448,
+  "colorStone": 0,
+  "wSalePrice": 79717,
+  "images": [
+    "collectionAssets/Diamond/Rings/SMDRN20230034.webp",
+    "collectionAssets/Diamond/Rings/SMDRN20230034.1.webp"
+  ]
+}
+]
+    let diamondRing = [
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecd4"
+        },
+        "proId": "SMDRN20230001",
+        "GrossWeight": 5.86,
+        "NetWeight": 5.6,
+        "DiamondWeight": 0.24,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 4000,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230001.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230001.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecd5"
+        },
+        "proId": "SMDRN20230002",
+        "GrossWeight": 4.66,
+        "NetWeight": 4.19,
+        "DiamondWeight": 0.47,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230002.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecd6"
+        },
+        "proId": "SMDRN20230003",
+        "GrossWeight": 2.5,
+        "NetWeight": 2.46,
+        "DiamondWeight": 0.2,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230003.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230003.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecd7"
+        },
+        "proId": "SMDRN20230005",
+        "GrossWeight": 2.6,
+        "NetWeight": 2.53,
+        "DiamondWeight": 0.55,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 71800,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230005.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230005.1.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230005.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecd8"
+        },
+        "proId": "SMDRN20230006",
+        "GrossWeight": 7.5,
+        "NetWeight": 7.3,
+        "DiamondWeight": 0.61,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230006.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230006.1.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230006.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecd9"
+        },
+        "proId": "SMDRN20230007",
+        "GrossWeight": 5.69,
+        "NetWeight": 5.48,
+        "DiamondWeight": 1.06,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 64150,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230007.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230007.1.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230007.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecda"
+        },
+        "proId": "SMDRN20230009",
+        "GrossWeight": 3.56,
+        "NetWeight": 3.42,
+        "DiamondWeight": 0.7,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 70000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230009.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230009.1.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230009.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecdb"
+        },
+        "proId": "SMDRN20230010",
+        "GrossWeight": 3.75,
+        "NetWeight": 3.68,
+        "DiamondWeight": 0.35,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 56430,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230010.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230010.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecdc"
+        },
+        "proId": "SMDRN20230011",
+        "GrossWeight": 6.78,
+        "NetWeight": 6.69,
+        "DiamondWeight": 0.45,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230011.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230011.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecdd"
+        },
+        "proId": "SMDRN20230012",
+        "GrossWeight": 2.2,
+        "NetWeight": 2.18,
+        "DiamondWeight": 0.1,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230012.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230012.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecde"
+        },
+        "proId": "SMDRN20230013",
+        "GrossWeight": 11.29,
+        "NetWeight": 11.27,
+        "DiamondWeight": 0.2,
+        "MakingCharges": 1000,
+        "Karat": "Platinum",
+        "DiamondRate": 80000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230013.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecdf"
+        },
+        "proId": "SMDRN20230014",
+        "GrossWeight": 8.4,
+        "NetWeight": 8.2,
+        "DiamondWeight": 1,
+        "MakingCharges": 1000,
+        "Karat": "Platinum",
+        "DiamondRate": 183000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230014.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece0"
+        },
+        "proId": "SMDRN20230015",
+        "GrossWeight": 4.75,
+        "NetWeight": 4.67,
+        "DiamondWeight": 0.38,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230015.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230015.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece1"
+        },
+        "proId": "SMDRN20230016",
+        "GrossWeight": 2.15,
+        "NetWeight": 2.12,
+        "DiamondWeight": 0.15,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230016.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230016.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece2"
+        },
+        "proId": "SMDRN20230017",
+        "GrossWeight": 7.5,
+        "NetWeight": 7.46,
+        "DiamondWeight": 0.2,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 90000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230017.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece3"
+        },
+        "proId": "SMDRN20230018",
+        "GrossWeight": 10.15,
+        "NetWeight": 9.64,
+        "DiamondWeight": 0.3,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 7875,
+        "colorStoneDes": "2.5ct Zambian 3.5k",
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230018.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230018.1.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230018.2.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230018.3.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece4"
+        },
+        "proId": "SMDRN20230019",
+        "GrossWeight": 4.15,
+        "NetWeight": 4.01,
+        "DiamondWeight": 0.71,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230019.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230019.1.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230019.2.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230019.3.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece5"
+        },
+        "proId": "SMDRN20230020",
+        "GrossWeight": 3.9,
+        "NetWeight": 3.8,
+        "DiamondWeight": 0.53,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230020.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230020.1.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230020.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece6"
+        },
+        "proId": "SMDRN20230021",
+        "GrossWeight": 3.5,
+        "NetWeight": 3,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 11250,
+        "colorStoneDes": "2.5ct Bangkok ",
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230021.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230021.1.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230021.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece7"
+        },
+        "proId": "SMDRN20230022",
+        "GrossWeight": 4.25,
+        "NetWeight": 3.74,
+        "DiamondWeight": 0.31,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 3375,
+        "colorStoneDes": "2.25cts Bangkok",
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230022.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230022.1.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230022.2.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece8"
+        },
+        "proId": "SMDRN20230024",
+        "GrossWeight": 3.12,
+        "NetWeight": 3.05,
+        "DiamondWeight": 0.35,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230024.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ece9"
+        },
+        "proId": "SMDRN20230028",
+        "GrossWeight": 4.28,
+        "NetWeight": 4.16,
+        "DiamondWeight": 0.62,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230028.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230028.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecea"
+        },
+        "proId": "SMDRN20230029",
+        "GrossWeight": 3.63,
+        "NetWeight": 3.58,
+        "DiamondWeight": 0.24,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230029.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230029.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956eceb"
+        },
+        "proId": "SMDRN20230030",
+        "GrossWeight": 3.73,
+        "NetWeight": 3.64,
+        "DiamondWeight": 0.44,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230030.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecec"
+        },
+        "proId": "SMDRN20230031",
+        "GrossWeight": 3.65,
+        "NetWeight": 3.56,
+        "DiamondWeight": 0.43,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230031.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956eced"
+        },
+        "proId": "SMDRN20230032",
+        "GrossWeight": 3.72,
+        "NetWeight": 3.66,
+        "DiamondWeight": 0.28,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230032.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230032.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecee"
+        },
+        "proId": "SMDRN20230035",
+        "GrossWeight": 6.74,
+        "NetWeight": 6.71,
+        "DiamondWeight": 0.15,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 65000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230035.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230035.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecef"
+        },
+        "proId": "SMDRN20230036",
+        "GrossWeight": 5.79,
+        "NetWeight": 5.61,
+        "DiamondWeight": 0.88,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230036.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230036.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecf0"
+        },
+        "proId": "SMDRN20230037",
+        "GrossWeight": 8.88,
+        "NetWeight": 7.98,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 24300,
+        "colorStoneDes": "4.5 cts Bangkok ",
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230037.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230037.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecf1"
+        },
+        "proId": "SMDRN20230038",
+        "GrossWeight": 2.48,
+        "NetWeight": 2.44,
+        "DiamondWeight": 0.2,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230038.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230038.1.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecf2"
+        },
+        "proId": "SMDRN20230039",
+        "GrossWeight": 3.47,
+        "NetWeight": 3.41,
+        "DiamondWeight": 0.3,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230039.webp"
+        ]
+      },
+      {
+        "_id": {
+          "$oid": "6572ed60b61cce0f2956ecf3"
+        },
+        "proId": "SMDRN20230040",
+        "GrossWeight": 3.84,
+        "NetWeight": 3.78,
+        "DiamondWeight": 0.33,
+        "MakingCharges": 750,
+        "Karat": "18kt Gold",
+        "DiamondRate": 50000,
+        "colorStone": 0,
+        "images": [
+          "collectionAssets/Diamond/Rings/SMDRN20230040.webp",
+          "collectionAssets/Diamond/Rings/SMDRN20230040.1.webp"
+        ]
+      }]
+
+    let imgId = 0;
+    function ArRafi(dataId, showCaseId) {
+      imgId = dataId;
+      slideImage(showCaseId);
+    }
+    function slideImage(classs) {
+      const displayWidth = document.querySelector(`.${classs} img:first-child`).clientWidth;
+      document.querySelector(`.${classs}`).style.transform = `translateX(${- (imgId - 1) * displayWidth}px)`;
+    }
+
+    let card = document.getElementById('proCard');
+    let productContainerId = document.getElementById('productContainerId');
+    productContainerId.innerHTML = " ";
+    const goldRate = 4864;
+    diamondRing.forEach(i => {
+      const newcard = card.content.cloneNode(true);
+
+      let tdiamondRate = 0;
+      let tgoldRate = 0
+      let tmc = 0;
+      let twsp = 0;
+
+      tdiamondRate = i.DiamondWeight * i.DiamondRate;
+      tgoldRate = i.NetWeight * goldRate;
+      tmc = i.NetWeight * i.MakingCharges;
+
+      twsp = tdiamondRate + tgoldRate + tmc + i.colorStone;
+
+      newcard.querySelector('#imageDisplay').classList.add(i.proId);
+      newcard.querySelector('.product-title').innerHTML = i.proId;
+      newcard.querySelector('#grosswgt').innerHTML = i.GrossWeight;
+      newcard.querySelector('#netwgt').innerHTML = i.NetWeight;
+      newcard.querySelector('#diamondwgt').innerHTML = i.DiamondWeight;
+      newcard.querySelector('#totalPrice').innerHTML = Math.round(twsp);
+      newcard.querySelector('.karat').innerHTML = i.Karat;
+
+
+      let showcaseImages = newcard.querySelectorAll('.img-showcase img');
+      let selectImages = newcard.querySelectorAll('.img-select img');
+
+      for (let k = 0; k < i.images.length; k++) {
+        showcaseImages[k].src = i.images[k];
+      }
+      let dataId = 1;
+      for (let k = 0; k < i.images.length; k++) {
+        selectImages[k].src = i.images[k];
+        selectImages[k].alt = i.proId;
+        selectImages[k].setAttribute('data-id', dataId++);
+      }
+
+
+
+      productContainerId.appendChild(newcard);
+      // product-container.appendChild(newcard);
+    });
+
+
+    coupleRings.forEach(i => {
+      const newcard = card.content.cloneNode(true);
+
+     
+    
+
+      newcard.querySelector('#imageDisplay').classList.add(i.proId);
+      newcard.querySelector('.product-title').innerHTML = i.proId;
+      newcard.querySelector('#grosswgt').innerHTML = i.GrossWeight;
+      newcard.querySelector('#netwgt').innerHTML = i.NetWeight;
+      newcard.querySelector('#diamondwgt').innerHTML = i.DiamondWeight;
+      newcard.querySelector('#totalPrice').innerHTML = i.wSalePrice;
+      newcard.querySelector('.karat').innerHTML = i.Karat;
+
+
+      let showcaseImages = newcard.querySelectorAll('.img-showcase img');
+      let selectImages = newcard.querySelectorAll('.img-select img');
+
+      for (let k = 0; k < i.images.length; k++) {
+        showcaseImages[k].src = i.images[k];
+      }
+      let dataId = 1;
+      for (let k = 0; k < i.images.length; k++) {
+        selectImages[k].src = i.images[k];
+        selectImages[k].alt = i.proId;
+        selectImages[k].setAttribute('data-id', dataId++);
+      }
+
+
+
+      productContainerId.appendChild(newcard);
+      // product-container.appendChild(newcard);
+    });
+    
+    window.addEventListener('resize', slideImage);
+  </script>
+</body>
+
+</html>

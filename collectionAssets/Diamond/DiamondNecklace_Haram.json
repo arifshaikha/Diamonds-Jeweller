@@ -1,0 +1,345 @@
+[
+ 
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b710c"
+  },
+  "proId": "SMDNK20230001",
+  "GrossWeight": 68.45,
+  "NetWeight": 55.75,
+  "DiamondWeight": 7.07,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 16000,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230001.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230001.1.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230001.2.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230001.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b710d"
+  },
+  "proId": "SMDNK20230002",
+  "GrossWeight": 12.42,
+  "NetWeight": 12.15,
+  "DiamondWeight": 1.36,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230002.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b710e"
+  },
+  "proId": "SMDNK20230003",
+  "GrossWeight": 80.78,
+  "NetWeight": 76.99,
+  "DiamondWeight": 12.44,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 4000,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230003.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230003.1.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230003.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b710f"
+  },
+  "proId": "SMDNK20230004",
+  "GrossWeight": 75.77,
+  "NetWeight": 73.21,
+  "DiamondWeight": 12.78,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230004.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7110"
+  },
+  "proId": "SMDNK20230005",
+  "GrossWeight": 58.09,
+  "NetWeight": 52.78,
+  "DiamondWeight": 7.88,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 10000,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230005.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230005.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7111"
+  },
+  "proId": "SMDNK20230006",
+  "GrossWeight": 55.71,
+  "NetWeight": 50.02,
+  "DiamondWeight": 7.27,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 10000,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230006.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230006.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7112"
+  },
+  "proId": "SMDNK20230007",
+  "GrossWeight": 49.97,
+  "NetWeight": 46.01,
+  "DiamondWeight": 19.83,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230007.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7113"
+  },
+  "proId": "SMDNK20230008",
+  "GrossWeight": 57.57,
+  "NetWeight": 55.75,
+  "DiamondWeight": 9.12,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230008.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230008.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7114"
+  },
+  "proId": "SMDNK20230009",
+  "GrossWeight": 19.88,
+  "NetWeight": 19.4,
+  "DiamondWeight": 2.41,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230009.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230009.1.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230009.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7115"
+  },
+  "proId": "SMDNK20230010",
+  "GrossWeight": 29.78,
+  "NetWeight": 29.21,
+  "DiamondWeight": 2.85,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230010.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230010.1.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230010.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7116"
+  },
+  "proId": "SMDNK20230011",
+  "GrossWeight": 22.66,
+  "NetWeight": 22.24,
+  "DiamondWeight": 2.12,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230011.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230011.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7117"
+  },
+  "proId": "SMDNK20230012",
+  "GrossWeight": 55.99,
+  "NetWeight": 54.54,
+  "DiamondWeight": 7.27,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230012.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230012.1.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230012.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7118"
+  },
+  "proId": "SMDNK20230013",
+  "GrossWeight": 54.53,
+  "NetWeight": 43.72,
+  "DiamondWeight": 9.04,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 10000,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230013.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230013.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7119"
+  },
+  "proId": "SMDNK20230014",
+  "GrossWeight": 22.22,
+  "NetWeight": 22.1,
+  "DiamondWeight": 0.6,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230014.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230014.1.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230014.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b711a"
+  },
+  "proId": "SMDNK20230015",
+  "GrossWeight": 40.68,
+  "NetWeight": 39.62,
+  "DiamondWeight": 5.31,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 65000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230015.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230015.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b711b"
+  },
+  "proId": "SMDNK20230016",
+  "GrossWeight": 32.11,
+  "NetWeight": 30.99,
+  "DiamondWeight": 5.61,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 0,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230016.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b711c"
+  },
+  "proId": "SMDNK20230017",
+  "GrossWeight": 107.47,
+  "NetWeight": 92.47,
+  "DiamondWeight": 12.84,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 225000,
+  "colorStoneDes": "15 CTS REAL TANZANITE @15000 RD PER CARAT ",
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDNK20230017.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b7109"
+  },
+  "proId": "SMDHR20230001",
+  "GrossWeight": 126.72,
+  "NetWeight": 121.18,
+  "DiamondWeight": 17.78,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 6000,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDHR20230001.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDHR20230001.1.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDHR20230001.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b710a"
+  },
+  "proId": "SMDHR20230002",
+  "GrossWeight": 164.54,
+  "NetWeight": 145.04,
+  "DiamondWeight": 21.27,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 35000,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDHR20230002.webp",
+    "collectionAssets/Diamond/NecklaceHaram/SMDHR20230002.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6576f56cbfd37e83f18b710b"
+  },
+  "proId": "SMDHR20230003",
+  "GrossWeight": 172.77,
+  "NetWeight": 144.92,
+  "DiamondWeight": 22.45,
+  "MakingCharges": 750,
+  "Karat": "18kt Gold",
+  "DiamondRate": 50000,
+  "colorStone": 45000,
+  "images": [
+    "collectionAssets/Diamond/NecklaceHaram/SMDHR20230003.webp"
+  ]
+}]
